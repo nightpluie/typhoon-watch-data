@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T00:06:11+08:00",
+  "updated_at": "2026-10-24T00:08:34+08:00",
   "typhoon": {
     "name": "薔琵"
   },
@@ -695,26 +695,6 @@
           "published": "2026-10-23T13:27:00+08:00"
         },
         {
-          "id": "p-14a47d9e81",
-          "prep_type": "other",
-          "detail": "新北市政府考量民眾行車安全，YouBike公共自行車及共享機車自23日凌晨2時起暫停營運，YouBike服務中心也暫停服務。",
-          "quantity": null,
-          "time": "2026-10-23T02:00:00+08:00",
-          "outlet": "新北市政府",
-          "url": "https://www.ntpc.gov.tw/ch/home.jsp?id=e8ca970cde5c00e1&dataserno=013b4ed46323e6c0dc0f154e9989636b",
-          "published": "2026-10-22T20:20:00+08:00"
-        },
-        {
-          "id": "p-6ffbaef559",
-          "prep_type": "other",
-          "detail": "新北市交通局表示，自22日20時起全市紅、黃線及162所學校開放停車，路邊停車格暫停收費。",
-          "quantity": "162所學校",
-          "time": "2026-10-22T20:00:00+08:00",
-          "outlet": "新北市政府",
-          "url": "https://www.ntpc.gov.tw/ch/home.jsp?id=e8ca970cde5c00e1&dataserno=013b4ed46323e6c0cfd34dbda2a9c48b",
-          "published": "2026-10-22T20:26:00+08:00"
-        },
-        {
           "id": "p-b46b3edef3",
           "prep_type": "other",
           "detail": "環保局已於轄內易積淹水地區側溝再次加強檢視及清淤。",
@@ -722,7 +702,7 @@
           "time": null,
           "outlet": "新北市政府",
           "url": "https://www.ntpc.gov.tw/ch/home.jsp?id=e8ca970cde5c00e1&dataserno=013b4ed46323e6c0216b7eb242013909",
-          "published": "2026-10-22T21:14:00+08:00"
+          "published": "2026-10-22"
         },
         {
           "id": "p-b3456f9172",
@@ -732,7 +712,7 @@
           "time": null,
           "outlet": "新北市政府",
           "url": "https://www.ntpc.gov.tw/ch/home.jsp?id=e8ca970cde5c00e1&dataserno=013b4ed46323e6c0216b7eb242013909",
-          "published": "2026-10-22T21:14:00+08:00"
+          "published": "2026-10-22"
         },
         {
           "id": "p-bfc9b6a93a",
@@ -742,7 +722,7 @@
           "time": null,
           "outlet": "新北市政府",
           "url": "https://www.ntpc.gov.tw/ch/home.jsp?id=e8ca970cde5c00e1&dataserno=013b4ed46323e6c07039b55d5ca5e41b",
-          "published": "2026-10-22T23:24:00+08:00"
+          "published": "2026-10-22"
         },
         {
           "id": "p-1aa6b33125",
@@ -752,7 +732,27 @@
           "time": null,
           "outlet": "新北市政府",
           "url": "https://www.ntpc.gov.tw/ch/home.jsp?id=e8ca970cde5c00e1&dataserno=013b4ed46323e6c07039b55d5ca5e41b",
-          "published": "2026-10-22T23:24:00+08:00"
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-6ffbaef559",
+          "prep_type": "other",
+          "detail": "新北市交通局表示，自22日20時起全市紅、黃線及162所學校開放停車，路邊停車格暫停收費。",
+          "quantity": "162所學校",
+          "time": "2026-10-22T20:00:00+08:00",
+          "outlet": "新北市政府",
+          "url": "https://www.ntpc.gov.tw/ch/home.jsp?id=e8ca970cde5c00e1&dataserno=013b4ed46323e6c0cfd34dbda2a9c48b",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-14a47d9e81",
+          "prep_type": "other",
+          "detail": "新北市政府考量民眾行車安全，YouBike公共自行車及共享機車自23日凌晨2時起暫停營運，YouBike服務中心也暫停服務。",
+          "quantity": null,
+          "time": "2026-10-23T02:00:00+08:00",
+          "outlet": "新北市政府",
+          "url": "https://www.ntpc.gov.tw/ch/home.jsp?id=e8ca970cde5c00e1&dataserno=013b4ed46323e6c0dc0f154e9989636b",
+          "published": "2026-10-22"
         },
         {
           "id": "p-6d48b13789",
@@ -762,7 +762,7 @@
           "time": null,
           "outlet": "新北市政府",
           "url": "https://www.ntpc.gov.tw/ch/home.jsp?id=e8ca970cde5c00e1&dataserno=fb94eedde1e0c54800a7d29ca9f5f31f",
-          "published": "2026-10-23T11:55:00+08:00"
+          "published": "2026-10-23"
         },
         {
           "id": "p-88c23e2d68",
@@ -772,7 +772,7 @@
           "time": null,
           "outlet": "新北市政府",
           "url": "https://www.ntpc.gov.tw/ch/home.jsp?id=e8ca970cde5c00e1&dataserno=fb94eedde1e0c548e2465939a21e412c",
-          "published": "2026-10-23T22:42:00+08:00"
+          "published": "2026-10-23"
         }
       ],
       "person": [
@@ -892,26 +892,26 @@
           "action": "視察五股區中港東抽水站，慰問防汛人員。",
           "outlet": "新北市政府",
           "url": "https://www.ntpc.gov.tw/ch/home.jsp?id=e8ca970cde5c00e1&dataserno=fb94eedde1e0c54800a7d29ca9f5f31f",
-          "published": "2026-10-23T11:55:00+08:00"
+          "published": "2026-10-23"
         }
       ],
       "status": {
         "metro": [
           {
             "label": "新北捷運",
-            "text": "新北捷運官網營運狀況（查詢時間 10月24日 00:05）：淡海輕軌、安坑輕軌、三鶯線全線停止運作",
+            "text": "新北捷運官網營運狀況（查詢時間 10月24日 00:08）：淡海輕軌、安坑輕軌、三鶯線全線停止運作",
             "level": "alert",
             "source_name": "新北大眾捷運股份有限公司",
             "source_url": "https://www.ntmetro.com.tw/",
-            "updated_at": "2026-10-24T00:05:03+08:00"
+            "updated_at": "2026-10-24T00:08:21+08:00"
           },
           {
             "label": "新北捷運",
-            "text": "新北捷運官網營運狀況（查詢時間 10月24日 00:05）：環狀線受颱風與陣風影響，列車降速營運，全線班距延長",
+            "text": "新北捷運官網營運狀況（查詢時間 10月24日 00:08）：環狀線受颱風與陣風影響，列車降速營運，全線班距延長",
             "level": "warn",
             "source_name": "新北大眾捷運股份有限公司",
             "source_url": "https://www.ntmetro.com.tw/",
-            "updated_at": "2026-10-24T00:05:03+08:00"
+            "updated_at": "2026-10-24T00:08:21+08:00"
           }
         ],
         "power": [
@@ -1011,7 +1011,7 @@
             "level": "warn",
             "source_name": "桃園大眾捷運股份有限公司",
             "source_url": "https://www.tymetro.com.tw/tymetro-new/tw/_pages/news/show-2439-1.html",
-            "updated_at": "2026-10-24T00:05:03+08:00"
+            "updated_at": "2026-10-24T00:08:21+08:00"
           },
           {
             "label": "桃園捷運",
@@ -1019,7 +1019,7 @@
             "level": "warn",
             "source_name": "桃園大眾捷運股份有限公司",
             "source_url": "https://www.tymetro.com.tw/tymetro-new/tw/_pages/news/show-2438-1.html",
-            "updated_at": "2026-10-24T00:05:03+08:00"
+            "updated_at": "2026-10-24T00:08:21+08:00"
           }
         ],
         "power": [
@@ -1344,11 +1344,11 @@
         "metro": [
           {
             "label": "臺中捷運",
-            "text": "業者營運公告頁目前未見停駛或異常公告（查詢時間 10月24日 00:05）。官網首頁寫「捷運營運狀態：全線正常營運（目前班距20分鐘）」",
+            "text": "業者營運公告頁目前未見停駛或異常公告（查詢時間 10月24日 00:08）。官網首頁寫「捷運營運狀態：全線正常營運（目前班距20分鐘）」",
             "level": "info",
             "source_name": "臺中捷運股份有限公司",
             "source_url": "https://www.tmrt.com.tw/",
-            "updated_at": "2026-10-24T00:05:03+08:00"
+            "updated_at": "2026-10-24T00:08:21+08:00"
           }
         ],
         "power": [
@@ -1935,11 +1935,11 @@
         "metro": [
           {
             "label": "高雄捷運／輕軌",
-            "text": "業者營運公告頁目前未見停駛或異常公告（查詢時間 10月24日 00:05）。官網首頁狀態列：捷運全線正常營運；輕軌全線正常營運",
+            "text": "業者營運公告頁目前未見停駛或異常公告（查詢時間 10月24日 00:08）。官網首頁狀態列：捷運全線正常營運；輕軌全線正常營運",
             "level": "info",
             "source_name": "高雄捷運公司",
             "source_url": "https://www.krtc.com.tw/",
-            "updated_at": "2026-10-24T00:05:03+08:00"
+            "updated_at": "2026-10-24T00:08:21+08:00"
           }
         ],
         "power": [
