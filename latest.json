@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T22:56:24+08:00",
+  "updated_at": "2026-10-23T23:01:14+08:00",
   "typhoon": {
     "name": "薔琵"
   },
@@ -334,7 +334,7 @@
           "person": "蔣萬安",
           "role": "mayor",
           "time": null,
-          "action": "表示市府照慣例，由基北北桃4市共同討論後一起在8點宣布。",
+          "action": "表示市府照慣例，由基北北桃4市共同討論後一起在晚上8點宣布。",
           "outlet": "ETtoday新聞雲",
           "url": "https://www.ettoday.net/news/20261023/3259630.htm",
           "published": "2026-10-23T10:00:00+08:00"
@@ -980,16 +980,6 @@
           "outlet": "ETtoday新聞雲",
           "url": "https://www.ettoday.net/news/20261022/3259200.htm",
           "published": "2026-10-22T14:38:00+08:00"
-        },
-        {
-          "id": "p-46d99cb735",
-          "prep_type": "evacuation",
-          "detail": "截至22日晚間8時，桃園市疏散撤離77人。",
-          "quantity": "77人",
-          "time": null,
-          "outlet": "ETtoday新聞雲",
-          "url": "https://www.ettoday.net/news/20261023/3259552.htm",
-          "published": "2026-10-23T08:07:00+08:00"
         },
         {
           "id": "p-76b39b8afa",
