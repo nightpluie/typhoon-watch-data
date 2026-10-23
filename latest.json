@@ -1,1 +1,3603 @@
-{"test": true, "note": "連線與標頭測試，非真實資料", "at": "2026-10-23T22:23:11.502619+08:00"}
+{
+  "updated_at": "2026-10-23T22:34:57+08:00",
+  "typhoon": {
+    "name": "薔琵"
+  },
+  "rescue_form_url": null,
+  "cities": [
+    {
+      "id": "taipei",
+      "name": "臺北市",
+      "official": {
+        "eoc_tier": 1,
+        "eoc_opened_at": "2026-10-22T09:00:00+08:00",
+        "eoc_opened_at_note": "專案首次開設時間，不一定是目前等級的起算時間",
+        "work_school_status": "今天停止上班、停止上課。 明天已達停止上班及上課標準。"
+      },
+      "mayor": {
+        "name": "蔣萬安",
+        "title": "市長"
+      },
+      "prep": [
+        {
+          "id": "p-8bee160ca9",
+          "prep_type": "other",
+          "detail": "臺北市長到內湖金瑞治水園區及文德一號綠地，實地確認滯洪、排水、抽水機具、防水閘門及緊急疏散等準備。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259966.htm",
+          "published": "2026-10-23T20:20:00+08:00"
+        },
+        {
+          "id": "p-10d703a148",
+          "prep_type": "other",
+          "detail": "截至23日下午2點，臺北市公園處接獲119件路樹、11件路燈災情通報，已動員311人力、67車輛、134部機具。",
+          "quantity": "311人力、67車輛、134部機具",
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259953.htm",
+          "published": "2026-10-23T20:00:00+08:00",
+          "also": [
+            {
+              "outlet": "臺北市政府",
+              "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=F0883ED7F19396AE"
+            }
+          ]
+        },
+        {
+          "id": "p-cbe5451c11",
+          "prep_type": "tree_construction",
+          "detail": "北市公園處已完成樹木加固支撐作業，並對地方要求協助的預防性修剪樹木緊急派工處理。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259920.htm",
+          "published": "2026-10-23T17:50:00+08:00",
+          "also": [
+            {
+              "outlet": "臺北市政府",
+              "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=7FE3E626205B3E07"
+            },
+            {
+              "outlet": "臺北市政府",
+              "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=C017D57C846BC95C"
+            },
+            {
+              "outlet": "臺北市政府",
+              "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=F0883ED7F19396AE"
+            }
+          ]
+        },
+        {
+          "id": "p-d6e4a3f093",
+          "prep_type": "other",
+          "detail": "內湖金瑞治水園區增加細胞簡訊系統並針對附近居民造冊，需要警戒時發送CBS細胞簡訊通知。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259756.htm",
+          "published": "2026-10-23T12:50:00+08:00"
+        },
+        {
+          "id": "p-d9a50ec74d",
+          "prep_type": "other",
+          "detail": "臺北市環保局表示，24日將加派清潔隊員加班執勤，恢復晚間垃圾正常收運，並加強清除市區道路及重點區域的倒落樹枝、落葉及散落雜物。",
+          "quantity": null,
+          "time": null,
+          "outlet": "臺北市政府",
+          "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=379528BC2715C08B",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "p-87e3ae6103",
+          "prep_type": "tree_construction",
+          "detail": "臺北市公園處已完成木柵公園福安宮旁榕樹的疏枝修剪。",
+          "quantity": null,
+          "time": null,
+          "outlet": "臺北市政府",
+          "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=A9608B9E6BDA09B0",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "p-c3ce1402c7",
+          "prep_type": "floodgate",
+          "detail": "臺北市疏散門及越堤道路關閉，市府已開放8公尺以上道路紅黃線停車。",
+          "quantity": null,
+          "time": null,
+          "outlet": "臺北市政府",
+          "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=CD4051020029A5BB",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "p-0afc7ab306",
+          "prep_type": "floodgate",
+          "detail": "臺北市於22日下午6時實施疏散門「只出不進」管制措施。",
+          "quantity": null,
+          "time": "2026-10-22T18:00:00+08:00",
+          "outlet": "臺北市政府",
+          "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=D0B10BB01F5F1659",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "p-79dc0ba6f8",
+          "prep_type": "floodgate",
+          "detail": "臺北市政府工務局水利工程處宣布，自23日凌晨0時起陸續關閉全市疏散門及越堤坡道，屆時堤外便道將無法通行。",
+          "quantity": null,
+          "time": "2026-10-23T00:00:00+08:00",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259480.htm",
+          "published": "2026-10-22T22:07:00+08:00"
+        },
+        {
+          "id": "p-574ddca1d9",
+          "prep_type": "other",
+          "detail": "臺北市政府全面加強排水設施、清淤的巡查。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259403.htm",
+          "published": "2026-10-22T18:18:00+08:00"
+        },
+        {
+          "id": "p-a6b6949533",
+          "prep_type": "other",
+          "detail": "臺北市政府對相關人員、機具做預先部署。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259197.htm",
+          "published": "2026-10-22T14:38:00+08:00"
+        },
+        {
+          "id": "p-8f52760bcc",
+          "prep_type": "floodgate",
+          "detail": "臺北市水利工程處自22日18時起執行疏散門及越堤坡道「只出不進」管制，管制4小時後，也就是22時，將開始拖離堤外停車場滯留車輛。",
+          "quantity": null,
+          "time": "2026-10-22T18:00:00+08:00",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259072.htm",
+          "published": "2026-10-22T12:07:00+08:00"
+        },
+        {
+          "id": "p-4b075d6f2e",
+          "prep_type": "other",
+          "detail": "臺北市教育局自22日晚間21時起開放79所學校校園供民眾暫時停放車輛。",
+          "quantity": "79校",
+          "time": "2026-10-22T21:00:00+08:00",
+          "outlet": "臺北市政府",
+          "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=1383B919B0F1B04A",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-e7f384c139",
+          "prep_type": "sandbag",
+          "detail": "捷運局二工處在捷運工區備妥防汛器材、沙包與抽水機等應變設備。",
+          "quantity": null,
+          "time": null,
+          "outlet": "臺北市政府",
+          "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=761F1B899529066F",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-f2790c2b20",
+          "prep_type": "other",
+          "detail": "臺北市自即刻起開放全市8公尺以上道路紅黃線（附條件）停車，路邊停車暫停收費。",
+          "quantity": null,
+          "time": null,
+          "outlet": "臺北市政府",
+          "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=CE3E7017FA5E97E4",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-c638a617f6",
+          "prep_type": "other",
+          "detail": "臺北市災害應變中心（EOC）召開防颱整備會議，由市長蔣萬安主持，掌握最新颱風動態。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261021/3258165.htm",
+          "published": "2026-10-21T06:08:00+08:00"
+        }
+      ],
+      "person": [
+        {
+          "id": "m-bc9c2ea0f0",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "蔣萬安晚間到應變中心主持第3次工作會報。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259990.htm",
+          "published": "2026-10-23T22:21:00+08:00"
+        },
+        {
+          "id": "m-d71872289e",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "蔣萬安請台電公司加派人力，優先搶修南港區、北投區、士林區等地區的停電區域，並請防救災單位確認人力、機具、物資整備情形。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259990.htm",
+          "published": "2026-10-23T22:21:00+08:00"
+        },
+        {
+          "id": "m-2c75e99726",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "蔣萬安到臺北市災害應變中心（EOC）主持防颱會議，接著前往內湖金瑞治水園區及文德一號綠地。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259966.htm",
+          "published": "2026-10-23T20:20:00+08:00"
+        },
+        {
+          "id": "m-81ad852768",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "蔣萬安實地確認滯洪、排水、抽水機具、防水閘門及緊急疏散等各項準備。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259966.htm",
+          "published": "2026-10-23T20:20:00+08:00"
+        },
+        {
+          "id": "m-90be963316",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "蔣萬安到區公所了解地方整備及災情處理情形。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259966.htm",
+          "published": "2026-10-23T20:20:00+08:00"
+        },
+        {
+          "id": "m-b009475cf5",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "蔣萬安在臉書宣布臺北市10月24日停止上班、上課。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259966.htm",
+          "published": "2026-10-23T20:20:00+08:00",
+          "also": [
+            {
+              "outlet": "ETtoday新聞雲",
+              "url": "https://www.ettoday.net/news/20261023/3259911.htm"
+            },
+            {
+              "outlet": "臺北市政府",
+              "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=A6F6D14304EBDF35"
+            }
+          ]
+        },
+        {
+          "id": "m-366c4ec0f3",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "蔣萬安結束第二次防災整備會議後，前往內湖金瑞治水園區視察多功能滯洪池及溢流緊急疏散避難機制。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259756.htm",
+          "published": "2026-10-23T12:50:00+08:00",
+          "also": [
+            {
+              "outlet": "ETtoday新聞雲",
+              "url": "https://www.ettoday.net/news/20261023/3259850.htm"
+            },
+            {
+              "outlet": "臺北市政府",
+              "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=CD4051020029A5BB"
+            }
+          ]
+        },
+        {
+          "id": "m-384d462901",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "蔣萬安表示港湖、北投、士林、文山一帶山區雨量都會達到400毫米，這部分要非常嚴陣以待。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259756.htm",
+          "published": "2026-10-23T12:50:00+08:00"
+        },
+        {
+          "id": "m-8449052bbe",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "表示內湖會加強人員、機具預先部署，溝渠清淤也加強巡查。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259635.htm",
+          "published": "2026-10-23T10:10:00+08:00"
+        },
+        {
+          "id": "m-14a7cba578",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "上午到台北市災害應變中心主持薔琵颱風第二次整備會議。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259630.htm",
+          "published": "2026-10-23T10:00:00+08:00",
+          "also": [
+            {
+              "outlet": "ETtoday新聞雲",
+              "url": "https://www.ettoday.net/news/20261023/3259628.htm"
+            },
+            {
+              "outlet": "ETtoday新聞雲",
+              "url": "https://www.ettoday.net/news/20261023/3259635.htm"
+            }
+          ]
+        },
+        {
+          "id": "m-25a98c25fd",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "表示市府照慣例，由基北北桃4市共同討論後一起在8點宣布。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259630.htm",
+          "published": "2026-10-23T10:00:00+08:00",
+          "also": [
+            {
+              "outlet": "ETtoday新聞雲",
+              "url": "https://www.ettoday.net/news/20261023/3259635.htm"
+            }
+          ]
+        },
+        {
+          "id": "m-69f66b0bb8",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "23日晚間主持薔琵颱風工作會報，聽取各單位報告。",
+          "outlet": "臺北市政府",
+          "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=A6F6D14304EBDF35",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "m-9c4efc0f52",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "主持市府薔琵颱風工作會報，聽取各單位防颱整備及災情應變報告。",
+          "outlet": "臺北市政府",
+          "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=CD4051020029A5BB",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "m-97edbc562c",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "要求市府各單位務必維持最高警戒，一旦發生災情，應迅速通報、即時處置。",
+          "outlet": "臺北市政府",
+          "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=CD4051020029A5BB",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "m-29b69fa456",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "指出截至工作會報時，臺北市已接獲59件災情通報，其中以路樹倒塌案件最多，占整體案件47%。",
+          "outlet": "臺北市政府",
+          "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=CD4051020029A5BB",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "m-d01e1c54f8",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "主持臺北市政府薔琵颱風工作會報，聽取各局處防颱整備報告。",
+          "outlet": "臺北市政府",
+          "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=D0B10BB01F5F1659",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "m-ee8cd83ca5",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "宣布臺北市23日停止上班、停止上課。",
+          "outlet": "臺北市政府",
+          "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=D0B10BB01F5F1659",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "m-526f644b34",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "要求水利處、環保局及各區公所加強巡查、落實側溝清疏，並預置抽水機具、沙包等防救災資源。",
+          "outlet": "臺北市政府",
+          "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=D0B10BB01F5F1659",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "m-8a2c607a0c",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "在整備會議上要求各局處加強穩固懸掛物、招牌等。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259403.htm",
+          "published": "2026-10-22T18:18:00+08:00"
+        },
+        {
+          "id": "m-a5aa837986",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "22日下午新增行程，到辛亥生態公園滯洪池視察。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259346.htm",
+          "published": "2026-10-22T17:15:00+08:00",
+          "also": [
+            {
+              "outlet": "ETtoday新聞雲",
+              "url": "https://www.ettoday.net/news/20261022/3259403.htm"
+            }
+          ]
+        },
+        {
+          "id": "m-5eac914685",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "視察地下滯洪池自動蓄水及智慧退水機制，會前受訪表示希望大家不要輕忽這次颱風來襲。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259197.htm",
+          "published": "2026-10-22T14:38:00+08:00"
+        },
+        {
+          "id": "m-bbcfc20074",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "上午視察長安抽水站並接受訪問，表示傍晚聽取氣象團隊最新預測做為重要參考，依慣例和基北北桃四縣市交換意見後於晚間八點宣布停班停課。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3258899.htm",
+          "published": "2026-10-22T09:25:00+08:00",
+          "also": [
+            {
+              "outlet": "ETtoday新聞雲",
+              "url": "https://www.ettoday.net/news/20261022/3258928.htm"
+            },
+            {
+              "outlet": "ETtoday新聞雲",
+              "url": "https://www.ettoday.net/news/20261022/3259034.htm"
+            },
+            {
+              "outlet": "ETtoday新聞雲",
+              "url": "https://www.ettoday.net/news/20261022/3259123.htm"
+            },
+            {
+              "outlet": "ETtoday新聞雲",
+              "url": "https://www.ettoday.net/news/20261022/3259403.htm"
+            }
+          ]
+        },
+        {
+          "id": "m-894a147d45",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "視察雨水下水道清疏作業後，前往捷運工區檢查防颱防汛整備情形。",
+          "outlet": "臺北市政府",
+          "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=761F1B899529066F",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "m-dc0ba45768",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "蔣萬安21日受訪表示，持續密切關注颱風的動向跟最新雨勢風勢，先做各項防颱整備；是否停班課，要到最後密切掌握最新動態再做決定。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261021/3258258.htm",
+          "published": "2026-10-21T09:49:00+08:00"
+        },
+        {
+          "id": "m-e9978f8739",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "蔣萬安20日深夜到臺北市災害應變中心（EOC）主持防颱整備會議，並表示「我已經要求市府團隊全面整備」。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261021/3258165.htm",
+          "published": "2026-10-21T06:08:00+08:00"
+        },
+        {
+          "id": "m-7238b63f90",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "蔣萬安前往防颱應變中心EOC視察各局處防颱準備。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261020/3258086.htm",
+          "published": "2026-10-20T19:55:00+08:00"
+        },
+        {
+          "id": "m-6a23a173c0",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "蔣萬安裁示，這次颱風影響臺北市最大時間會是在23日，各局處要做好各項防颱。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261020/3258086.htm",
+          "published": "2026-10-20T19:55:00+08:00"
+        },
+        {
+          "id": "m-daeb840bfe",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "受訪時表示，當晚會到EOC主持相關整備工作，並會依照既有程序判斷與決定。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261020/3257668.htm",
+          "published": "2026-10-20T10:30:00+08:00"
+        }
+      ],
+      "status": {
+        "metro": [
+          {
+            "label": "貓空纜車",
+            "text": "臺北捷運公告：貓空纜車10月24日暫停營運",
+            "level": "alert",
+            "source_name": "臺北大眾捷運股份有限公司",
+            "source_url": "https://www.metro.taipei/News_Content.aspx?n=30CCEFD2A45592BF&sms=72544237BBE4C5F6&s=56B859603DC66E56",
+            "updated_at": "2026-10-23T20:34:00+08:00"
+          },
+          {
+            "label": "臺北捷運",
+            "text": "臺北捷運公告（10月23日 20:06 更新）：24日臺北捷運維持營運，視狀況彈性調整列車服務班距。文湖線與高運量平面、高架路段，自23日18時起，因風速過大已達停駛標準，24日首班車須視天候及軌道巡檢狀況，另行通知。",
+            "level": "alert",
+            "source_name": "臺北大眾捷運股份有限公司",
+            "source_url": "https://www.metro.taipei/News_Content.aspx?n=30CCEFD2A45592BF&sms=72544237BBE4C5F6&s=D24768D861F3702F",
+            "updated_at": "2026-10-23T20:06:00+08:00"
+          },
+          {
+            "label": "臺北捷運",
+            "text": "臺北捷運公告（10月23日 17:23 更新）：23日18時風速達停駛標準，文湖線及高運量高架平面段停駛，其餘路線正常。發布機關：臺北大眾捷運股份有限公司 聯絡人：周萬祥 聯絡資訊：02-21812345 受薔琵颱風來襲影響，10月23日臺北捷運文湖線及高運量平面、高架路段（圓山站至淡水站、新北投站、小碧潭站），風速已達列車停駛標準，將於18時起暫停營運，恢復營運時間視天候與實際狀況，另行通知。",
+            "level": "alert",
+            "source_name": "臺北大眾捷運股份有限公司",
+            "source_url": "https://www.metro.taipei/News_Content.aspx?n=30CCEFD2A45592BF&sms=72544237BBE4C5F6&s=649A1A69E7BC170D",
+            "updated_at": "2026-10-23T17:23:00+08:00"
+          }
+        ],
+        "power": [
+          {
+            "label": "台電停電戶數（參考值）",
+            "text": "台電停復電查詢系統顯示（資料時點 10月23日 22:00），臺北市目前停電 1,416 戶、曾經停電累計 4,484 戶（參考值：來自台電內部查詢端點，欄位意義為推得，非台電公告統計）。",
+            "level": null,
+            "source_name": "台電停復電查詢系統",
+            "source_url": "https://service.taipower.com.tw/psvs1/",
+            "updated_at": "2026-10-23T22:00:00+08:00"
+          }
+        ],
+        "landslide": [
+          {
+            "label": "土石流警戒",
+            "text": "目前無土石流警戒",
+            "level": "info",
+            "source_name": "農業部水土保持署",
+            "source_url": "https://246.ardswc.gov.tw/",
+            "updated_at": "2026-10-23T21:21:00+08:00"
+          }
+        ]
+      },
+      "rescue": []
+    },
+    {
+      "id": "newtaipei",
+      "name": "新北市",
+      "official": {
+        "eoc_tier": 1,
+        "eoc_opened_at": "2026-10-22T08:56:16+08:00",
+        "eoc_opened_at_note": "專案首次開設時間，不一定是目前等級的起算時間",
+        "work_school_status": "今天停止上班、停止上課。 明天已達停止上班及上課標準。"
+      },
+      "mayor": {
+        "name": "侯友宜",
+        "title": "市長"
+      },
+      "prep": [
+        {
+          "id": "p-1ecad2f5c5",
+          "prep_type": "evacuation",
+          "detail": "新北市三峽警分局會同鶯歌區公所等單位於22日下午在南靖部落展開預防性撤離勸導；截至22日下午3時5分，撤離51戶137人。",
+          "quantity": "51戶137人",
+          "time": "2026-10-22T14:00:00+08:00",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259777.htm",
+          "published": "2026-10-23T13:27:00+08:00"
+        },
+        {
+          "id": "p-e0336c1c76",
+          "prep_type": "other",
+          "detail": "新北市政府交通局表示，預計於23日下午3時實施淡江大橋預警性封閉，如風雨提前達到危險標準，不排除提前封閉。",
+          "quantity": null,
+          "time": "2026-10-23T15:00:00+08:00",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259674.htm",
+          "published": "2026-10-23T11:06:00+08:00"
+        },
+        {
+          "id": "p-0918d3e7de",
+          "prep_type": "evacuation",
+          "detail": "新北市土石流潛勢區23日預計撤離1397人，撤離作業進行中。",
+          "quantity": "預計撤離1397人",
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259652.htm",
+          "published": "2026-10-23T10:47:00+08:00"
+        },
+        {
+          "id": "p-125478cb3c",
+          "prep_type": "other",
+          "detail": "新北市已勸離152人觀浪、釣魚與山區活動民眾，各單位將持續巡查。",
+          "quantity": "勸離152人",
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259652.htm",
+          "published": "2026-10-23T10:47:00+08:00"
+        },
+        {
+          "id": "p-840df095ef",
+          "prep_type": "evacuation",
+          "detail": "截至22日晚間8時，新北市疏散撤離172人。",
+          "quantity": "172人",
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259552.htm",
+          "published": "2026-10-23T08:07:00+08:00"
+        },
+        {
+          "id": "p-6d48b13789",
+          "prep_type": "pump",
+          "detail": "新北市水利局表示各抽水站已完成防汛整備，隨時待命執行抽水。",
+          "quantity": null,
+          "time": null,
+          "outlet": "新北市政府",
+          "url": "https://www.ntpc.gov.tw/ch/home.jsp?id=e8ca970cde5c00e1&dataserno=fb94eedde1e0c54800a7d29ca9f5f31f",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "p-41418a4da2",
+          "prep_type": "other",
+          "detail": "新北市災害應變中心提升為一級開設。",
+          "quantity": null,
+          "time": "2026-10-22T13:30:00+08:00",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259449.htm",
+          "published": "2026-10-22T20:00:00+08:00"
+        },
+        {
+          "id": "p-8fc8511c9f",
+          "prep_type": "floodgate",
+          "detail": "新北市政府提醒，二重疏洪道、重新堤外道、樹林柑園至鶯歌堤外便道及堤外機車道自22日晚間10時起封閉。",
+          "quantity": null,
+          "time": "2026-10-22T22:00:00+08:00",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259449.htm",
+          "published": "2026-10-22T20:00:00+08:00"
+        },
+        {
+          "id": "p-69277b4564",
+          "prep_type": "other",
+          "detail": "新北市政府已公告劃設警戒區域。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259423.htm",
+          "published": "2026-10-22T19:03:00+08:00"
+        },
+        {
+          "id": "p-2ca44b97c4",
+          "prep_type": "other",
+          "detail": "新北市政府預計高灘地停車場下午4時起管制車輛只出不進，晚間8時起強制拖吊未駛離的車輛。",
+          "quantity": null,
+          "time": "2026-10-22T16:00:00+08:00",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3258969.htm",
+          "published": "2026-10-22T10:26:00+08:00"
+        },
+        {
+          "id": "p-2a5350f929",
+          "prep_type": "floodgate",
+          "detail": "新北市政府全市各橫移門、越堤道於晚上9時起管制只出不進，晚上10時全部關閉，完成管制。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3258969.htm",
+          "published": "2026-10-22T10:26:00+08:00"
+        },
+        {
+          "id": "p-b3456f9172",
+          "prep_type": "other",
+          "detail": "環保局已於轄內易積淹水地區側溝再次加強檢視及清淤。",
+          "quantity": null,
+          "time": null,
+          "outlet": "新北市政府",
+          "url": "https://www.ntpc.gov.tw/ch/home.jsp?id=e8ca970cde5c00e1&dataserno=013b4ed46323e6c0216b7eb242013909",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-b46b3edef3",
+          "prep_type": "other",
+          "detail": "環保局已備妥資收車、垃圾車、清溝車、灑水車、鏟裝車及抓斗車等災後復原機具車輛。",
+          "quantity": "2,525輛",
+          "time": null,
+          "outlet": "新北市政府",
+          "url": "https://www.ntpc.gov.tw/ch/home.jsp?id=e8ca970cde5c00e1&dataserno=013b4ed46323e6c0216b7eb242013909",
+          "published": "2026-10-22"
+        }
+      ],
+      "person": [
+        {
+          "id": "m-9cf79f0d89",
+          "person": "侯友宜",
+          "role": "mayor",
+          "time": null,
+          "action": "前往新北市災害應變中心舉行工作會報。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259652.htm",
+          "published": "2026-10-23T10:47:00+08:00"
+        },
+        {
+          "id": "m-5ea21136a6",
+          "person": "侯友宜",
+          "role": "mayor",
+          "time": null,
+          "action": "呼籲民眾勿從事觀浪、釣魚與山區活動等行為。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259652.htm",
+          "published": "2026-10-23T10:47:00+08:00"
+        },
+        {
+          "id": "m-7aaa2077c2",
+          "person": "侯友宜",
+          "role": "mayor",
+          "time": null,
+          "action": "視察五股區中港東抽水站，慰問防汛人員。",
+          "outlet": "新北市政府",
+          "url": "https://www.ntpc.gov.tw/ch/home.jsp?id=e8ca970cde5c00e1&dataserno=fb94eedde1e0c54800a7d29ca9f5f31f",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "m-f9412b04c5",
+          "person": "侯友宜",
+          "role": "mayor",
+          "time": "2026-10-22T17:30:00+08:00",
+          "action": "主持第2次工作會報，要求市府及各區公所全面強化防颱整備工作，落實機具預置、危險物固定及預防性疏散撤離。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259449.htm",
+          "published": "2026-10-22T20:00:00+08:00"
+        },
+        {
+          "id": "m-059331aadd",
+          "person": "侯友宜",
+          "role": "mayor",
+          "time": null,
+          "action": "主持防颱會議，指出已達新北市停班停課的雨量標準。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259197.htm",
+          "published": "2026-10-22T14:38:00+08:00"
+        },
+        {
+          "id": "m-842d00bdd2",
+          "person": "侯友宜",
+          "role": "mayor",
+          "time": null,
+          "action": "22日上午主持防颱會議，指出周五早晨到周六傍晚影響新北市最明顯。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3258976.htm",
+          "published": "2026-10-22T10:43:00+08:00",
+          "also": [
+            {
+              "outlet": "ETtoday新聞雲",
+              "url": "https://www.ettoday.net/news/20261022/3259034.htm"
+            }
+          ]
+        },
+        {
+          "id": "m-4ae2868c6b",
+          "person": "侯友宜",
+          "role": "mayor",
+          "time": null,
+          "action": "主持防颱會議，指出周五北、東、南側預估累積雨量達到350毫米，「達到停班停課標準」，並強調新北市必須全力備戰。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3258908.htm",
+          "published": "2026-10-22T09:34:00+08:00",
+          "also": [
+            {
+              "outlet": "ETtoday新聞雲",
+              "url": "https://www.ettoday.net/news/20261022/3258969.htm"
+            }
+          ]
+        },
+        {
+          "id": "m-3707631f43",
+          "person": "侯友宜",
+          "role": "mayor",
+          "time": null,
+          "action": "侯友宜21日親自主持開會，盤點防颱的準備工作。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261021/3258572.htm",
+          "published": "2026-10-21T15:43:00+08:00"
+        },
+        {
+          "id": "m-d87caa921b",
+          "person": "侯友宜",
+          "role": "mayor",
+          "time": null,
+          "action": "侯友宜21日受訪時表示，有可能會達到停班停課，禮拜四（22日）晚上8時北北基桃將共同宣佈。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261021/3258572.htm",
+          "published": "2026-10-21T15:43:00+08:00",
+          "also": [
+            {
+              "outlet": "ETtoday新聞雲",
+              "url": "https://sports.ettoday.net/news/3258775"
+            }
+          ]
+        }
+      ],
+      "status": {
+        "metro": [
+          {
+            "label": "新北捷運",
+            "text": "新北捷運官網營運狀況（查詢時間 10月23日 22:32）：淡海輕軌、安坑輕軌、三鶯線全線停止運作",
+            "level": "alert",
+            "source_name": "新北大眾捷運股份有限公司",
+            "source_url": "https://www.ntmetro.com.tw/",
+            "updated_at": "2026-10-23T22:32:40+08:00"
+          },
+          {
+            "label": "新北捷運",
+            "text": "新北捷運官網營運狀況（查詢時間 10月23日 22:32）：環狀線受颱風與陣風影響，列車降速營運，全線班距延長",
+            "level": "warn",
+            "source_name": "新北大眾捷運股份有限公司",
+            "source_url": "https://www.ntmetro.com.tw/",
+            "updated_at": "2026-10-23T22:32:40+08:00"
+          }
+        ],
+        "power": [
+          {
+            "label": "台電停電戶數（參考值）",
+            "text": "台電停復電查詢系統顯示（資料時點 10月23日 22:00），新北市目前停電 2,733 戶、曾經停電累計 10,458 戶（參考值：來自台電內部查詢端點，欄位意義為推得，非台電公告統計）。",
+            "level": null,
+            "source_name": "台電停復電查詢系統",
+            "source_url": "https://service.taipower.com.tw/psvs1/",
+            "updated_at": "2026-10-23T22:00:00+08:00"
+          }
+        ],
+        "landslide": [
+          {
+            "label": "土石流警戒",
+            "text": "黃色警戒 31 處（三峽區 25、烏來區 6）",
+            "level": "warn",
+            "source_name": "農業部水土保持署",
+            "source_url": "https://246.ardswc.gov.tw/",
+            "updated_at": "2026-10-23T21:21:00+08:00"
+          }
+        ]
+      },
+      "rescue": []
+    },
+    {
+      "id": "taoyuan",
+      "name": "桃園市",
+      "official": {
+        "eoc_tier": 1,
+        "eoc_opened_at": "2026-10-22T09:00:00+08:00",
+        "eoc_opened_at_note": "專案首次開設時間，不一定是目前等級的起算時間",
+        "work_school_status": "今天停止上班、停止上課。 明天已達停止上班及上課標準。"
+      },
+      "mayor": {
+        "name": "張善政",
+        "title": "市長"
+      },
+      "prep": [
+        {
+          "id": "p-76b39b8afa",
+          "prep_type": "evacuation",
+          "detail": "桃園市復興區公所於22日下午三時許開始土石流警戒區保全戶預防性撤離，初步估計撤離約150戶、675人。",
+          "quantity": "初步估計約150戶、675人",
+          "time": "2026-10-22T15:00:00+08:00",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259669.htm",
+          "published": "2026-10-23T11:14:00+08:00"
+        },
+        {
+          "id": "p-65122c0947",
+          "prep_type": "other",
+          "detail": "桃園市政府於22日與復興區災害應變中心兩度召開整備會議與災害應變中心視訊會議。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259669.htm",
+          "published": "2026-10-23T11:14:00+08:00"
+        },
+        {
+          "id": "p-46d99cb735",
+          "prep_type": "evacuation",
+          "detail": "截至22日晚間8時，桃園市疏散撤離77人。",
+          "quantity": "77人",
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259552.htm",
+          "published": "2026-10-23T08:07:00+08:00"
+        },
+        {
+          "id": "p-658e2e3368",
+          "prep_type": "other",
+          "detail": "桃園市政府宣布復興區巴崚國小、三光國小、光華國小及高義國小，22日下午1時起停止上班、停止上課。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259200.htm",
+          "published": "2026-10-22T14:38:00+08:00"
+        },
+        {
+          "id": "p-1401c19e16",
+          "prep_type": "other",
+          "detail": "桃園市觀旅局表示，桃園萬聖城現場大型設施已加強固定，部分設施、裝置物及氣膜預防性拆除或移置。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://travel.ettoday.net/article/3259129.htm",
+          "published": "2026-10-22T13:11:00+08:00"
+        },
+        {
+          "id": "p-1f48c5b530",
+          "prep_type": "other",
+          "detail": "桃園市轄管的宇內溪野溪溫泉區、小烏來天空步道、後慈湖園區、拉拉山巴陵古道生態園區及馬崙砲臺，將自10月23日起預警性休園。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://travel.ettoday.net/article/3259129.htm",
+          "published": "2026-10-22T13:11:00+08:00"
+        }
+      ],
+      "person": [],
+      "status": {
+        "metro": [
+          {
+            "label": "桃園捷運",
+            "text": "桃園捷運官網公告：因應薔琵颱風最新動態，桃園捷運公司明(10/24)日營運模式（10月23日公告）：全天取消直達車及加班車班次，普通車維持15分鐘班距",
+            "level": "warn",
+            "source_name": "桃園大眾捷運股份有限公司",
+            "source_url": "https://www.tymetro.com.tw/tymetro-new/tw/_pages/news/show-2439-1.html",
+            "updated_at": "2026-10-23T22:32:40+08:00"
+          },
+          {
+            "label": "桃園捷運",
+            "text": "桃園捷運官網公告：因應薔琵颱風最新動態，桃園捷運公司明(10/23)日營運模式（10月22日公告）：全天取消直達車及加班車班次，普通車維持15分鐘班距",
+            "level": "warn",
+            "source_name": "桃園大眾捷運股份有限公司",
+            "source_url": "https://www.tymetro.com.tw/tymetro-new/tw/_pages/news/show-2438-1.html",
+            "updated_at": "2026-10-23T22:32:40+08:00"
+          }
+        ],
+        "power": [
+          {
+            "label": "台電停電戶數（參考值）",
+            "text": "台電停復電查詢系統顯示（資料時點 10月23日 22:00），桃園市目前停電 2,992 戶、曾經停電累計 22,292 戶（參考值：來自台電內部查詢端點，欄位意義為推得，非台電公告統計）。",
+            "level": null,
+            "source_name": "台電停復電查詢系統",
+            "source_url": "https://service.taipower.com.tw/psvs1/",
+            "updated_at": "2026-10-23T22:00:00+08:00"
+          }
+        ],
+        "landslide": [
+          {
+            "label": "土石流警戒",
+            "text": "黃色警戒 32 處（復興區 32）",
+            "level": "warn",
+            "source_name": "農業部水土保持署",
+            "source_url": "https://246.ardswc.gov.tw/",
+            "updated_at": "2026-10-23T21:21:00+08:00"
+          }
+        ]
+      },
+      "rescue": []
+    },
+    {
+      "id": "taichung",
+      "name": "臺中市",
+      "official": {
+        "eoc_tier": 1,
+        "eoc_opened_at": "2026-10-22T12:00:00+08:00",
+        "eoc_opened_at_note": "專案首次開設時間，不一定是目前等級的起算時間",
+        "work_school_status": "今天停止上班、停止上課。 明天已達停止上班及上課標準。"
+      },
+      "mayor": {
+        "name": "盧秀燕",
+        "title": "市長"
+      },
+      "prep": [
+        {
+          "id": "p-b5218d0ca6",
+          "prep_type": "floodgate",
+          "detail": "市府於22日針對高美濕地木棧道入口採取預防性封閉措施，全面禁止民眾進入。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259854.htm",
+          "published": "2026-10-23T16:03:00+08:00"
+        },
+        {
+          "id": "p-d6f7683339",
+          "prep_type": "other",
+          "detail": "臺中市災害應變中心於22日晚間9點一級開設。",
+          "quantity": null,
+          "time": "2026-10-22T21:00:00+08:00",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259689.htm",
+          "published": "2026-10-23T11:42:00+08:00",
+          "also": [
+            {
+              "outlet": "ETtoday新聞雲",
+              "url": "https://www.ettoday.net/news/20261023/3259769.htm"
+            },
+            {
+              "outlet": "臺中市政府",
+              "url": "https://www.taichung.gov.tw/3399163/post"
+            }
+          ]
+        },
+        {
+          "id": "p-40dca741e4",
+          "prep_type": "other",
+          "detail": "建設局於22日晚間9時開設一級緊急應變小組。",
+          "quantity": null,
+          "time": "2026-10-22T21:00:00+08:00",
+          "outlet": "臺中市政府",
+          "url": "https://www.taichung.gov.tw/3399231/post",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "p-b8827e32cd",
+          "prep_type": "tree_construction",
+          "detail": "截至報導時,建設局完成側溝清淤48,511公尺、樹木高空修剪逾5.4萬株。",
+          "quantity": "54,086株",
+          "time": null,
+          "outlet": "臺中市政府",
+          "url": "https://www.taichung.gov.tw/3399231/post",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "p-da29697b10",
+          "prep_type": "other",
+          "detail": "建設局已完成側溝清淤。",
+          "quantity": "48,511公尺",
+          "time": null,
+          "outlet": "臺中市政府",
+          "url": "https://www.taichung.gov.tw/3399231/post",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "p-6f3b790f2c",
+          "prep_type": "other",
+          "detail": "臺中市建設局22日中午12時啟動三級緊急災害應變小組，並派員加強巡查轄內重要道路、橋梁及地下道。",
+          "quantity": null,
+          "time": "2026-10-22T12:00:00+08:00",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259349.htm",
+          "published": "2026-10-22T17:14:00+08:00",
+          "also": [
+            {
+              "outlet": "臺中市政府",
+              "url": "https://www.taichung.gov.tw/3398247/post"
+            },
+            {
+              "outlet": "臺中市政府",
+              "url": "https://www.taichung.gov.tw/3398643/post"
+            }
+          ]
+        },
+        {
+          "id": "p-bff6849c91",
+          "prep_type": "pump",
+          "detail": "截至報導時，臺中市政府水利局已完成全市12座抽水站、240部機動抽水機整備。",
+          "quantity": "12座抽水站、240部機動抽水機",
+          "time": null,
+          "outlet": "臺中市政府",
+          "url": "https://www.taichung.gov.tw/3398247/post",
+          "published": "2026-10-22",
+          "also": [
+            {
+              "outlet": "臺中市政府",
+              "url": "https://www.taichung.gov.tw/3398370/post"
+            }
+          ]
+        },
+        {
+          "id": "p-487f55f93b",
+          "prep_type": "sandbag",
+          "detail": "截至報導時，臺中市水利局已備妥沙包1.5萬包、太空包150包。",
+          "quantity": "沙包1.5萬包、太空包150包",
+          "time": null,
+          "outlet": "臺中市政府",
+          "url": "https://www.taichung.gov.tw/3398370/post",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-6c1fccfb9c",
+          "prep_type": "sandbag",
+          "detail": "截至報導時，臺中市各區公所已發放沙包728包。",
+          "quantity": "728包",
+          "time": null,
+          "outlet": "臺中市政府",
+          "url": "https://www.taichung.gov.tw/3398370/post",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-faec5cc695",
+          "prep_type": "tree_construction",
+          "detail": "截至報導時，臺中市各區公所已完成樹木修剪2,247棵。",
+          "quantity": "2,247棵",
+          "time": null,
+          "outlet": "臺中市政府",
+          "url": "https://www.taichung.gov.tw/3398370/post",
+          "published": "2026-10-22",
+          "also": [
+            {
+              "outlet": "臺中市政府",
+              "url": "https://www.taichung.gov.tw/3398643/post"
+            }
+          ]
+        },
+        {
+          "id": "p-e20ae3489f",
+          "prep_type": "shelter",
+          "detail": "截至報導時，臺中市社會局已整備全市550處避難收容處所，可收容逾38萬人。",
+          "quantity": "550處",
+          "time": null,
+          "outlet": "臺中市政府",
+          "url": "https://www.taichung.gov.tw/3398370/post",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-c4d482162a",
+          "prep_type": "other",
+          "detail": "臺中市災害應變中心三級開設，於22日下午召開第一次工作會報。",
+          "quantity": null,
+          "time": null,
+          "outlet": "臺中市政府",
+          "url": "https://www.taichung.gov.tw/3398800/post",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-8c72f9b477",
+          "prep_type": "other",
+          "detail": "臺中市消防局完成防汛裝備整備，並安排人員24小時待命輪值。",
+          "quantity": null,
+          "time": null,
+          "outlet": "臺中市政府",
+          "url": "https://www.taichung.gov.tw/3398800/post",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-45e0be9cc5",
+          "prep_type": "other",
+          "detail": "消防局已完成救災人力、車輛機具、防汛裝備清點與調配，並測試衛星電話、無線電等緊急通訊設備。",
+          "quantity": null,
+          "time": null,
+          "outlet": "臺中市政府",
+          "url": "https://www.taichung.gov.tw/3399163/post",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-a4e5559a7b",
+          "prep_type": "other",
+          "detail": "消防局已公告劃定山區及海邊警戒區域，依法實施進出管制、勸導撤離。",
+          "quantity": null,
+          "time": null,
+          "outlet": "臺中市政府",
+          "url": "https://www.taichung.gov.tw/3399163/post",
+          "published": "2026-10-22"
+        }
+      ],
+      "person": [
+        {
+          "id": "m-af31589b6a",
+          "person": "盧秀燕",
+          "role": "mayor",
+          "time": null,
+          "action": "盧秀燕主持災害應變中心第二次工作會報。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259769.htm",
+          "published": "2026-10-23T13:18:00+08:00"
+        },
+        {
+          "id": "m-9dcad83a8d",
+          "person": "盧秀燕",
+          "role": "mayor",
+          "time": null,
+          "action": "盧秀燕嚴正譴責網傳大甲區麥當勞招牌掉落的假消息，並已責成副市長及警察局全力追查、依法嚴辦。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259769.htm",
+          "published": "2026-10-23T13:18:00+08:00",
+          "also": [
+            {
+              "outlet": "臺中市政府",
+              "url": "https://www.taichung.gov.tw/3399213/post"
+            }
+          ]
+        },
+        {
+          "id": "m-7864b9940d",
+          "person": "盧秀燕",
+          "role": "mayor",
+          "time": null,
+          "action": "盧秀燕於23日上午主持第二次工作會報，並呼籲市民非必要勿外出。",
+          "outlet": "臺中市政府",
+          "url": "https://www.taichung.gov.tw/3399213/post",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "m-ce25599946",
+          "person": "盧秀燕",
+          "role": "mayor",
+          "time": null,
+          "action": "盧秀燕率領全府召開「薔琵颱風防颱整備會議」。",
+          "outlet": "臺中市政府",
+          "url": "https://www.taichung.gov.tw/3398370/post",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "m-5d855e5356",
+          "person": "盧秀燕",
+          "role": "mayor",
+          "time": "2026-10-22T15:00:00+08:00",
+          "action": "盧秀燕主持災害應變中心三級開設第一次工作會報。",
+          "outlet": "臺中市政府",
+          "url": "https://www.taichung.gov.tw/3398800/post",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "m-84dc1ababc",
+          "person": "盧秀燕",
+          "role": "mayor",
+          "time": "2026-10-22T21:00:00+08:00",
+          "action": "盧秀燕下令災害應變中心於22日晚21時升為一級開設。",
+          "outlet": "臺中市政府",
+          "url": "https://www.taichung.gov.tw/3399163/post",
+          "published": "2026-10-22"
+        }
+      ],
+      "status": {
+        "metro": [
+          {
+            "label": "臺中捷運",
+            "text": "業者營運公告頁目前未見停駛或異常公告（查詢時間 10月23日 22:32）。官網首頁寫「捷運營運狀態：全線正常營運（目前班距15分鐘）」",
+            "level": "info",
+            "source_name": "臺中捷運股份有限公司",
+            "source_url": "https://www.tmrt.com.tw/",
+            "updated_at": "2026-10-23T22:32:40+08:00"
+          }
+        ],
+        "power": [
+          {
+            "label": "台電停電戶數（參考值）",
+            "text": "台電停復電查詢系統顯示（資料時點 10月23日 22:00），臺中市目前停電 1,114 戶、曾經停電累計 19,670 戶（參考值：來自台電內部查詢端點，欄位意義為推得，非台電公告統計）。",
+            "level": null,
+            "source_name": "台電停復電查詢系統",
+            "source_url": "https://service.taipower.com.tw/psvs1/",
+            "updated_at": "2026-10-23T22:00:00+08:00"
+          }
+        ],
+        "landslide": [
+          {
+            "label": "土石流警戒",
+            "text": "目前無土石流警戒",
+            "level": "info",
+            "source_name": "農業部水土保持署",
+            "source_url": "https://246.ardswc.gov.tw/",
+            "updated_at": "2026-10-23T21:21:00+08:00"
+          }
+        ]
+      },
+      "rescue": []
+    },
+    {
+      "id": "tainan",
+      "name": "臺南市",
+      "official": {
+        "eoc_tier": 1,
+        "eoc_opened_at": "2026-10-22T14:00:00+08:00",
+        "eoc_opened_at_note": "專案首次開設時間，不一定是目前等級的起算時間",
+        "work_school_status": "今天停止上班、停止上課。 明天未達停止上班及上課標準。"
+      },
+      "mayor": {
+        "name": "黃偉哲",
+        "title": "市長"
+      },
+      "prep": [
+        {
+          "id": "p-8369da8ce5",
+          "prep_type": "tree_construction",
+          "detail": "臺南市工務局表示路樹及廣告招牌相關案件已完成處理，將持續巡查道路與公共設施。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259947.htm",
+          "published": "2026-10-23T19:17:00+08:00"
+        },
+        {
+          "id": "p-21687a6ce7",
+          "prep_type": "other",
+          "detail": "截至報導時，臺南市社會局表示12個社福中心已動員93名社工，關懷長輩、身心障礙者及特殊弱勢家庭。",
+          "quantity": "12個社福中心、93名社工",
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259947.htm",
+          "published": "2026-10-23T19:17:00+08:00"
+        },
+        {
+          "id": "p-8de77bd449",
+          "prep_type": "sandbag",
+          "detail": "截至10月23日上午5時30分，臺南市全市已備妥砂包110,560包及防水擋板4,197片。",
+          "quantity": "砂包110,560包、防水擋板4,197片",
+          "time": null,
+          "outlet": "臺南市政府",
+          "url": "https://www.tainan.gov.tw//News_Content.aspx?n=13370&sms=9748&s=8843381",
+          "published": "2026-10-23T14:45:00+08:00"
+        },
+        {
+          "id": "p-51d41f7229",
+          "prep_type": "other",
+          "detail": "臺南市災害應變中心於23日上午一級開設。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259639.htm",
+          "published": "2026-10-23T10:12:00+08:00",
+          "also": [
+            {
+              "outlet": "臺南市政府",
+              "url": "https://www.tainan.gov.tw//News_Content.aspx?n=13370&sms=9748&s=8843357"
+            },
+            {
+              "outlet": "臺南市政府",
+              "url": "https://www.tainan.gov.tw//News_Content.aspx?n=13370&sms=9748&s=8843381"
+            }
+          ]
+        },
+        {
+          "id": "p-00cc92f258",
+          "prep_type": "other",
+          "detail": "黃偉哲強調各里備援發電機已備妥，請區公所配送至里辦公處。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259639.htm",
+          "published": "2026-10-23T10:12:00+08:00",
+          "also": [
+            {
+              "outlet": "臺南市政府",
+              "url": "https://www.tainan.gov.tw//News_Content.aspx?n=13370&sms=9748&s=8843357"
+            }
+          ]
+        },
+        {
+          "id": "p-a75e23668c",
+          "prep_type": "other",
+          "detail": "臺南市政府召開災防整備會議，邀集備份指揮部指揮官與會，討論災害情境、應變處置及跨單位支援機制。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259473.htm",
+          "published": "2026-10-22T21:32:00+08:00"
+        },
+        {
+          "id": "p-2a79d30c4e",
+          "prep_type": "other",
+          "detail": "臺南市政府召開災害應變中心第一次工作會報暨防颱整備會議。",
+          "quantity": null,
+          "time": "2026-10-22T16:15:00+08:00",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259443.htm",
+          "published": "2026-10-22T19:35:00+08:00"
+        },
+        {
+          "id": "p-831416bca7",
+          "prep_type": "other",
+          "detail": "臺南市消防局要求所屬外勤大隊及分隊加強整備防汛救災器材。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259443.htm",
+          "published": "2026-10-22T19:35:00+08:00"
+        },
+        {
+          "id": "p-c9d5817894",
+          "prep_type": "other",
+          "detail": "臺南市政府災害應變中心二級開設。",
+          "quantity": null,
+          "time": null,
+          "outlet": "臺南市政府",
+          "url": "https://www.tainan.gov.tw//News_Content.aspx?n=13370&sms=9748&s=8843262",
+          "published": "2026-10-22T17:15:00+08:00"
+        }
+      ],
+      "person": [
+        {
+          "id": "m-4b66b2cc0d",
+          "person": "黃偉哲",
+          "role": "mayor",
+          "time": null,
+          "action": "黃偉哲主持臺南市災害應變中心第3次工作會報。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259947.htm",
+          "published": "2026-10-23T19:17:00+08:00"
+        },
+        {
+          "id": "m-1c51ea7491",
+          "person": "黃偉哲",
+          "role": "mayor",
+          "time": null,
+          "action": "黃偉哲要求戶外設施、活動場地及設備務必確實固定。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259947.htm",
+          "published": "2026-10-23T19:17:00+08:00"
+        },
+        {
+          "id": "m-154c25af7d",
+          "person": "黃偉哲",
+          "role": "mayor",
+          "time": null,
+          "action": "黃偉哲指示各單位務必提高警覺，全力落實各項防颱應變措施。",
+          "outlet": "臺南市政府",
+          "url": "https://www.tainan.gov.tw//News_Content.aspx?n=13370&sms=9748&s=8843381",
+          "published": "2026-10-23T14:45:00+08:00"
+        },
+        {
+          "id": "m-e12302b560",
+          "person": "黃偉哲",
+          "role": "mayor",
+          "time": null,
+          "action": "黃偉哲主持災害應變中心第2次工作會報，要求各單位嚴防強風。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259639.htm",
+          "published": "2026-10-23T10:12:00+08:00",
+          "also": [
+            {
+              "outlet": "臺南市政府",
+              "url": "https://www.tainan.gov.tw//News_Content.aspx?n=13370&sms=9748&s=8843357"
+            },
+            {
+              "outlet": "臺南市政府",
+              "url": "https://www.tainan.gov.tw//News_Content.aspx?n=13370&sms=9748&s=8843381"
+            }
+          ]
+        },
+        {
+          "id": "m-c9ad789d9d",
+          "person": "黃偉哲",
+          "role": "mayor",
+          "time": "2026-10-23T07:30:00+08:00",
+          "action": "黃偉哲前往七股區西寮海邊視察。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259639.htm",
+          "published": "2026-10-23T10:12:00+08:00",
+          "also": [
+            {
+              "outlet": "臺南市政府",
+              "url": "https://www.tainan.gov.tw//News_Content.aspx?n=13370&sms=9748&s=8843357"
+            }
+          ]
+        },
+        {
+          "id": "m-a0cc5d5dcc",
+          "person": "黃偉哲",
+          "role": "mayor",
+          "time": "2026-10-22T16:15:00+08:00",
+          "action": "主持災害應變中心第一次工作會報暨防颱整備會議，要求市府各編組單位及37區公所提高戒備。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259443.htm",
+          "published": "2026-10-22T19:35:00+08:00"
+        },
+        {
+          "id": "m-0a87792cdc",
+          "person": "黃偉哲",
+          "role": "mayor",
+          "time": null,
+          "action": "指示各區公所、環保局及水利局加強易淹水地區排水設施與側溝清淤。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259443.htm",
+          "published": "2026-10-22T19:35:00+08:00"
+        },
+        {
+          "id": "m-a0c490cbb3",
+          "person": "黃偉哲",
+          "role": "mayor",
+          "time": null,
+          "action": "主持防颱整備會議，宣布災害應變中心二級開設，要求各局處全面落實防颱整備。",
+          "outlet": "臺南市政府",
+          "url": "https://www.tainan.gov.tw//News_Content.aspx?n=13370&sms=9748&s=8843262",
+          "published": "2026-10-22T17:15:00+08:00"
+        }
+      ],
+      "status": {
+        "metro": [],
+        "power": [
+          {
+            "label": "台電停電戶數（參考值）",
+            "text": "台電停復電查詢系統顯示（資料時點 10月23日 22:00），臺南市目前停電 1,433 戶、曾經停電累計 18,185 戶（參考值：來自台電內部查詢端點，欄位意義為推得，非台電公告統計）。",
+            "level": null,
+            "source_name": "台電停復電查詢系統",
+            "source_url": "https://service.taipower.com.tw/psvs1/",
+            "updated_at": "2026-10-23T22:00:00+08:00"
+          }
+        ],
+        "landslide": [
+          {
+            "label": "土石流警戒",
+            "text": "目前無土石流警戒",
+            "level": "info",
+            "source_name": "農業部水土保持署",
+            "source_url": "https://246.ardswc.gov.tw/",
+            "updated_at": "2026-10-23T21:21:00+08:00"
+          }
+        ]
+      },
+      "rescue": []
+    },
+    {
+      "id": "kaohsiung",
+      "name": "高雄市",
+      "official": {
+        "eoc_tier": 1,
+        "eoc_opened_at": "2026-10-22T14:00:00+08:00",
+        "eoc_opened_at_note": "專案首次開設時間，不一定是目前等級的起算時間",
+        "work_school_status": "今天停止上班、停止上課。 明天未達停止上班及上課標準。"
+      },
+      "mayor": {
+        "name": "陳其邁",
+        "title": "市長"
+      },
+      "prep": [
+        {
+          "id": "p-78ab780854",
+          "prep_type": "other",
+          "detail": "高雄市工務局建築管理處於23日委託土木技師公會及建築師公會，針對76處高風險建築工地辦理防颱巡檢。",
+          "quantity": "76處",
+          "time": null,
+          "outlet": "高雄市政府",
+          "url": "https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=69378FCFBC1D8E0B",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "p-f325906ee3",
+          "prep_type": "tree_construction",
+          "detail": "高雄市工務局針對轄管行道樹及公園樹木加強巡檢，進行疏枝修剪、支架檢查與加固。",
+          "quantity": null,
+          "time": null,
+          "outlet": "高雄市政府",
+          "url": "https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=9259084FE1FEEAA3",
+          "published": "2026-10-23",
+          "also": [
+            {
+              "outlet": "高雄市政府",
+              "url": "https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&sms=19902EF36D6B551D&s=716A6C4B3EB67381"
+            }
+          ]
+        },
+        {
+          "id": "p-168b37276c",
+          "prep_type": "pump",
+          "detail": "水利局於鼓山三路預先部署移動式抽水機，截至23日中午前完成布設，含1台12英吋、2台6英吋及國軍支援8台3英吋，合計11台。",
+          "quantity": "11台",
+          "time": null,
+          "outlet": "高雄市政府",
+          "url": "https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&sms=19902EF36D6B551D&s=C519BF7E00D6364A",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "p-066ff60210",
+          "prep_type": "sandbag",
+          "detail": "水利局於鼓山三路備妥防水擋板，截至23日中午前完成布設，共400片。",
+          "quantity": "400片",
+          "time": null,
+          "outlet": "高雄市政府",
+          "url": "https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&sms=19902EF36D6B551D&s=C519BF7E00D6364A",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "p-5eb91b2bfc",
+          "prep_type": "other",
+          "detail": "高雄市政府下令警察局、消防局及各區公所加強巡邏。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259447.htm",
+          "published": "2026-10-22T20:07:00+08:00",
+          "also": [
+            {
+              "outlet": "ETtoday新聞雲",
+              "url": "https://www.ettoday.net/news/20261023/3259699.htm"
+            }
+          ]
+        },
+        {
+          "id": "p-cf7bde40d6",
+          "prep_type": "pump",
+          "detail": "高雄市長陳其邁要求在易淹水低窪地區加強佈建抽水機。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259447.htm",
+          "published": "2026-10-22T20:07:00+08:00"
+        },
+        {
+          "id": "p-3685190d05",
+          "prep_type": "other",
+          "detail": "高雄市工務局針對全市廣告招牌、建築工地鷹架進行高密度巡查。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259447.htm",
+          "published": "2026-10-22T20:07:00+08:00"
+        },
+        {
+          "id": "p-38f90fc231",
+          "prep_type": "other",
+          "detail": "高雄市政府薔琵颱風應變中心於22日下午2點一級開設。",
+          "quantity": null,
+          "time": "2026-10-22T14:00:00+08:00",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259230.htm",
+          "published": "2026-10-22T15:17:00+08:00",
+          "also": [
+            {
+              "outlet": "ETtoday新聞雲",
+              "url": "https://www.ettoday.net/news/20261022/3259285.htm"
+            }
+          ]
+        },
+        {
+          "id": "p-2cffa9ae18",
+          "prep_type": "tree_construction",
+          "detail": "高雄市政府工務局公園處針對轄管公園、綠地及行道樹加強巡檢，辦理樹木疏枝修剪、支架加固及路園燈設施檢修，並整備救災人力與機具。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259230.htm",
+          "published": "2026-10-22T15:17:00+08:00",
+          "also": [
+            {
+              "outlet": "ETtoday新聞雲",
+              "url": "https://www.ettoday.net/news/20261022/3259285.htm"
+            },
+            {
+              "outlet": "高雄市政府",
+              "url": "https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=67308D7A1C1B80AE"
+            }
+          ]
+        },
+        {
+          "id": "p-188ebab2da",
+          "prep_type": "other",
+          "detail": "高雄市公園處已提前完成救災機具、車輛及人力調度整備。",
+          "quantity": null,
+          "time": null,
+          "outlet": "高雄市政府",
+          "url": "https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=67308D7A1C1B80AE",
+          "published": "2026-10-22"
+        }
+      ],
+      "person": [
+        {
+          "id": "m-619eeae083",
+          "person": "陳其邁",
+          "role": "mayor",
+          "time": "2026-10-23T18:30:00+08:00",
+          "action": "23日晚間在臉書宣布高雄市24日正常上班、正常上課。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259985.htm",
+          "published": "2026-10-23T22:05:00+08:00"
+        },
+        {
+          "id": "m-48480512f3",
+          "person": "陳其邁",
+          "role": "mayor",
+          "time": null,
+          "action": "陳其邁表示23日高雄區域陣風最高可達10至11級，已符合停班停課標準。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259699.htm",
+          "published": "2026-10-23T11:56:00+08:00"
+        },
+        {
+          "id": "m-79c0732815",
+          "person": "林欽榮",
+          "role": "vice_mayor",
+          "time": null,
+          "action": "表示針對在建工程，已要求工務局依防颱標準作業程序，全面加強工地巡查及安全管理。",
+          "outlet": "高雄市政府",
+          "url": "https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=69378FCFBC1D8E0B",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "m-c062efdcea",
+          "person": "林欽榮",
+          "role": "vice_mayor",
+          "time": null,
+          "action": "23日上午前往鳳山綠園道，視察行道樹支架加固及防颱整備情形，並慰勞第一線工作人員；指示各單位落實防颱超前部署。",
+          "outlet": "高雄市政府",
+          "url": "https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=9259084FE1FEEAA3",
+          "published": "2026-10-23",
+          "also": [
+            {
+              "outlet": "高雄市政府",
+              "url": "https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&sms=19902EF36D6B551D&s=716A6C4B3EB67381"
+            }
+          ]
+        },
+        {
+          "id": "m-799fbc1367",
+          "person": "林欽榮",
+          "role": "vice_mayor",
+          "time": null,
+          "action": "前往仁武區八涳橋改建工程視察，下午視察擴建路污水主幹管工地及鼓山三路移動式抽水機布設點，要求水利局落實各項防災措施。",
+          "outlet": "高雄市政府",
+          "url": "https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&sms=19902EF36D6B551D&s=C519BF7E00D6364A",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "m-5d5719be36",
+          "person": "陳其邁",
+          "role": "mayor",
+          "time": null,
+          "action": "於防災會議後宣布高雄市明（23）日全市停止上班、停止上課。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259447.htm",
+          "published": "2026-10-22T20:07:00+08:00"
+        },
+        {
+          "id": "m-f7d6b8555f",
+          "person": "陳其邁",
+          "role": "mayor",
+          "time": null,
+          "action": "下令警察局、消防局及各區公所加強巡邏；要求水利局確保水閘門、滯洪池、抽水站及移動式抽水機功能正常。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259447.htm",
+          "published": "2026-10-22T20:07:00+08:00",
+          "also": [
+            {
+              "outlet": "ETtoday新聞雲",
+              "url": "https://www.ettoday.net/news/20261023/3259699.htm"
+            }
+          ]
+        },
+        {
+          "id": "m-ff08b111bf",
+          "person": "陳其邁",
+          "role": "mayor",
+          "time": null,
+          "action": "陳其邁接受訪問時表示，會根據中央氣象署的資料做判斷，並表示會密切注意。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259034.htm",
+          "published": "2026-10-22T12:10:00+08:00"
+        },
+        {
+          "id": "m-391d60788f",
+          "person": "陳其邁",
+          "role": "mayor",
+          "time": null,
+          "action": "22日接受訪問時表示，會根據中央氣象署的資料來做最後的判斷。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3258884.htm",
+          "published": "2026-10-22T10:35:00+08:00"
+        },
+        {
+          "id": "m-baa965e773",
+          "person": "陳其邁",
+          "role": "mayor",
+          "time": null,
+          "action": "針對防颱準備，強調抽水機、滯洪池、移動抽水機等部分也會做好準備。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3258884.htm",
+          "published": "2026-10-22T10:35:00+08:00"
+        },
+        {
+          "id": "m-53ff14070d",
+          "person": "陳其邁",
+          "role": "mayor",
+          "time": null,
+          "action": "主持颱風第一次工作會議，宣布23日高雄市全市停止上班、停止上課。",
+          "outlet": "高雄市政府",
+          "url": "https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=A918FF5BF4AB35C3",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "m-918cc845ea",
+          "person": "陳其邁",
+          "role": "mayor",
+          "time": null,
+          "action": "責請水利局確保所有抽水機組狀態，提早佈置抽水機。",
+          "outlet": "高雄市政府",
+          "url": "https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=A918FF5BF4AB35C3",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "m-ecf441c93c",
+          "person": "陳其邁",
+          "role": "mayor",
+          "time": null,
+          "action": "陳其邁表示，薔琵颱風對南臺灣的影響應該會以雨量為主，市府會做好更綿密的準備。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261020/3257709.htm",
+          "published": "2026-10-20T11:14:00+08:00"
+        },
+        {
+          "id": "m-533d5a5a2c",
+          "person": "陳其邁",
+          "role": "mayor",
+          "time": null,
+          "action": "陳其邁下令水利局就滯洪池、抽水站進行事前檢查，確保機具、抽水機具能夠運作正常。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261020/3257709.htm",
+          "published": "2026-10-20T11:14:00+08:00"
+        }
+      ],
+      "status": {
+        "metro": [
+          {
+            "label": "高雄捷運／輕軌",
+            "text": "高雄捷運官網置頂公告：高雄捷運因應10/23高雄市停班停課之列車行駛概況：10/23(五)14：30 起高雄捷運紅橘全線列車班距為10分鐘，深夜時段班距為20分鐘。",
+            "level": "warn",
+            "source_name": "高雄捷運公司",
+            "source_url": "https://www.krtc.com.tw/Information/notice_more?id=6a89481664cc4e71822385bb8441035d",
+            "updated_at": "2026-10-23T22:32:40+08:00"
+          },
+          {
+            "label": "高雄捷運／輕軌",
+            "text": "高雄捷運官網置頂公告：10/23 高雄輕軌受薔琵颱風影響，全日班距為20分鐘。",
+            "level": "warn",
+            "source_name": "高雄捷運公司",
+            "source_url": "https://www.krtc.com.tw/Information/notice_more?id=b1da86ad15f54605ad99a035aca8f441",
+            "updated_at": "2026-10-23T22:32:40+08:00"
+          }
+        ],
+        "power": [
+          {
+            "label": "台電停電戶數（參考值）",
+            "text": "台電停復電查詢系統顯示（資料時點 10月23日 22:00），高雄市目前停電 1,353 戶、曾經停電累計 8,291 戶（參考值：來自台電內部查詢端點，欄位意義為推得，非台電公告統計）。",
+            "level": null,
+            "source_name": "台電停復電查詢系統",
+            "source_url": "https://service.taipower.com.tw/psvs1/",
+            "updated_at": "2026-10-23T22:00:00+08:00"
+          }
+        ],
+        "landslide": [
+          {
+            "label": "土石流警戒",
+            "text": "目前無土石流警戒",
+            "level": "info",
+            "source_name": "農業部水土保持署",
+            "source_url": "https://246.ardswc.gov.tw/",
+            "updated_at": "2026-10-23T21:21:00+08:00"
+          }
+        ]
+      },
+      "rescue": []
+    },
+    {
+      "id": "keelung",
+      "name": "基隆市",
+      "official": {
+        "eoc_tier": 1,
+        "eoc_opened_at": "2026-10-22T08:00:00+08:00",
+        "eoc_opened_at_note": "專案首次開設時間，不一定是目前等級的起算時間",
+        "work_school_status": "今天停止上班、停止上課。 明天已達停止上班及上課標準。"
+      },
+      "mayor": {
+        "name": "謝國樑",
+        "title": "市長"
+      },
+      "prep": [
+        {
+          "id": "p-3281f8604a",
+          "prep_type": "other",
+          "detail": "基隆市政府已公告劃設警戒區域。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259423.htm",
+          "published": "2026-10-22T19:03:00+08:00"
+        },
+        {
+          "id": "p-7bbc4e7004",
+          "prep_type": "pump",
+          "detail": "截至報導時，工務處已於大武崙溪、愛四路及東四抽水站等地預先部署7台移動式抽水機，其中3台由水利署第十河川分署支援。",
+          "quantity": "7台",
+          "time": null,
+          "outlet": "基隆市政府",
+          "url": "https://www.klcg.gov.tw/tw/klcg1/3168-323819.html",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-3a3dc5a348",
+          "prep_type": "sandbag",
+          "detail": "安樂區公所已通知各里調查沙包需求，截至中午初步清查約有300包，並陸續協調里長配送至各里。",
+          "quantity": "約300包",
+          "time": null,
+          "outlet": "基隆市政府",
+          "url": "https://www.klcg.gov.tw/tw/klcg1/3168-323819.html",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-51916b7713",
+          "prep_type": "other",
+          "detail": "基隆市政府自22日20時起，除部分路段不開放外，其餘路段開放紅黃線停車，並暫停全市路邊停車收費。",
+          "quantity": null,
+          "time": "2026-10-22T20:00:00+08:00",
+          "outlet": "基隆市政府",
+          "url": "https://www.klcg.gov.tw/tw/klcg1/3168-323830.html",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-96bba39624",
+          "prep_type": "other",
+          "detail": "基隆市政府自21日下午5時起，對大武崙沙灘、海興游泳池、潮境保育區及基隆嶼啟動預警性防颱管制，並拉設封鎖線禁止民眾進入。",
+          "quantity": null,
+          "time": "2026-10-21T17:00:00+08:00",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://travel.ettoday.net/article/3258648.htm",
+          "published": "2026-10-21T17:20:00+08:00"
+        },
+        {
+          "id": "p-832dde450d",
+          "prep_type": "other",
+          "detail": "基隆市消防局於10月21日全市9個分隊加強發電機、船外機、照明燈等防汛救災裝備器材整備，落實檢查、保養與功能測試。",
+          "quantity": null,
+          "time": null,
+          "outlet": "基隆市政府",
+          "url": "https://www.klcg.gov.tw/tw/klcg1/3168-323794.html",
+          "published": "2026-10-21"
+        },
+        {
+          "id": "p-9b998bddf9",
+          "prep_type": "other",
+          "detail": "基隆市政府相關單位近日已完成抽水站、水門、移動式抽水機及排水設施檢查，並辦理下水道及排水溝清疏、預先布建抽水機具。",
+          "quantity": null,
+          "time": null,
+          "outlet": "基隆市政府",
+          "url": "https://www.klcg.gov.tw/tw/klcg1/3168-323721.html",
+          "published": "2026-10-20"
+        }
+      ],
+      "person": [
+        {
+          "id": "m-9043e30d0f",
+          "person": "謝國樑",
+          "role": "mayor",
+          "time": null,
+          "action": "22日下午率領市府團隊前往安樂區大武崙溪沿線及仁愛區愛四路視察防颱整備情形。",
+          "outlet": "基隆市政府",
+          "url": "https://www.klcg.gov.tw/tw/klcg1/3168-323819.html",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "m-8de70709cc",
+          "person": "謝國樑",
+          "role": "mayor",
+          "time": null,
+          "action": "20日主持防災整備會議，要求市府各局處提高警覺、全面盤點防災整備工作。",
+          "outlet": "基隆市政府",
+          "url": "https://www.klcg.gov.tw/tw/klcg1/3168-323721.html",
+          "published": "2026-10-20"
+        }
+      ],
+      "status": {
+        "metro": [],
+        "power": [
+          {
+            "label": "台電停電戶數（參考值）",
+            "text": "台電停復電查詢系統顯示（資料時點 10月23日 22:00），基隆市目前停電 35 戶、曾經停電累計 1,203 戶（參考值：來自台電內部查詢端點，欄位意義為推得，非台電公告統計）。",
+            "level": null,
+            "source_name": "台電停復電查詢系統",
+            "source_url": "https://service.taipower.com.tw/psvs1/",
+            "updated_at": "2026-10-23T22:00:00+08:00"
+          }
+        ],
+        "landslide": [
+          {
+            "label": "土石流警戒",
+            "text": "目前無土石流警戒",
+            "level": "info",
+            "source_name": "農業部水土保持署",
+            "source_url": "https://246.ardswc.gov.tw/",
+            "updated_at": "2026-10-23T21:21:00+08:00"
+          }
+        ]
+      },
+      "rescue": []
+    },
+    {
+      "id": "hsinchu_city",
+      "name": "新竹市",
+      "official": {
+        "eoc_tier": 1,
+        "eoc_opened_at": "2026-10-22T08:00:00+08:00",
+        "eoc_opened_at_note": "專案首次開設時間，不一定是目前等級的起算時間",
+        "work_school_status": "今天停止上班、停止上課。 明天已達停止上班及上課標準。"
+      },
+      "mayor": {
+        "name": "高虹安",
+        "title": "市長"
+      },
+      "prep": [
+        {
+          "id": "p-3cd6800ded",
+          "prep_type": "other",
+          "detail": "新竹市災害應變中心維持一級開設，各局處應變小組持續進駐。",
+          "quantity": null,
+          "time": null,
+          "outlet": "新竹市政府",
+          "url": "https://eoc.hccg.gov.tw/home.jsp?id=18&parentpath=0,1&mcustomize=municipalnews_view.jsp&toolsflag=Y&dataserno=e050e28a-00e0-4bfc-9908-6eb533199a19&t=MunicipalNews&mserno=201604130001",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "p-ce71a17c48",
+          "prep_type": "floodgate",
+          "detail": "市府劃定新竹漁港、海山漁港及頭前溪以南沿岸等海域為管制區，非持通行證件不得進入。",
+          "quantity": null,
+          "time": "2026-10-22T17:30:00+08:00",
+          "outlet": "新竹市政府",
+          "url": "https://eoc.hccg.gov.tw/home.jsp?id=18&parentpath=0,1&mcustomize=municipalnews_view.jsp&toolsflag=Y&dataserno=202610220009&t=MunicipalNews&mserno=201604130001",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-50a6fba1e4",
+          "prep_type": "other",
+          "detail": "市府自20時起開放轄管道路內黃線及紅線供車輛暫時停放，消防救災巷道除外。",
+          "quantity": null,
+          "time": null,
+          "outlet": "新竹市政府",
+          "url": "https://eoc.hccg.gov.tw/home.jsp?id=18&parentpath=0,1&mcustomize=municipalnews_view.jsp&toolsflag=Y&dataserno=7f2fc8fb-c3db-43df-bfb0-c9bc717d064e&t=MunicipalNews&mserno=201604130001",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-2cbe69dee2",
+          "prep_type": "other",
+          "detail": "新竹市災害應變中心提升為一級開設，各局處人員進駐，啟動24小時監控及應變機制。",
+          "quantity": null,
+          "time": "2026-10-22T17:30:00+08:00",
+          "outlet": "新竹市政府",
+          "url": "https://eoc.hccg.gov.tw/home.jsp?id=18&parentpath=0,1&mcustomize=municipalnews_view.jsp&toolsflag=Y&dataserno=9204d24a-6c8d-4ceb-b9b5-61656623e6ba&t=MunicipalNews&mserno=201604130001",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-b2a7e7187c",
+          "prep_type": "other",
+          "detail": "工務處及養護工程處已檢查轄內抽水站、大型移動式抽水機、地下道抽排水設備、水門及警示柵欄。",
+          "quantity": null,
+          "time": null,
+          "outlet": "新竹市政府",
+          "url": "https://eoc.hccg.gov.tw/home.jsp?id=18&parentpath=0,1&mcustomize=municipalnews_view.jsp&toolsflag=Y&dataserno=9204d24a-6c8d-4ceb-b9b5-61656623e6ba&t=MunicipalNews&mserno=201604130001",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-3fe2f7b689",
+          "prep_type": "tree_construction",
+          "detail": "市府將督促施工單位及業者針對施工鷹架、起重機、圍籬及大型廣告帆布等設施完成加固或收整。",
+          "quantity": null,
+          "time": null,
+          "outlet": "新竹市政府",
+          "url": "https://eoc.hccg.gov.tw/home.jsp?id=18&parentpath=0,1&mcustomize=municipalnews_view.jsp&toolsflag=Y&dataserno=9204d24a-6c8d-4ceb-b9b5-61656623e6ba&t=MunicipalNews&mserno=201604130001",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-e274d24e33",
+          "prep_type": "other",
+          "detail": "市府提醒頭前溪高灘地、堤外廣場停車者於23日凌晨0時前移置車輛，未移車者將拖吊。",
+          "quantity": null,
+          "time": null,
+          "outlet": "新竹市政府",
+          "url": "https://eoc.hccg.gov.tw/home.jsp?id=18&parentpath=0,1&mcustomize=municipalnews_view.jsp&toolsflag=Y&dataserno=9204d24a-6c8d-4ceb-b9b5-61656623e6ba&t=MunicipalNews&mserno=201604130001",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-2206c91755",
+          "prep_type": "tree_construction",
+          "detail": "市府確認營造廠商檢視外牆施工架、防護網、吊臂及工程圍籬等設施之錨定加固作業。",
+          "quantity": null,
+          "time": null,
+          "outlet": "新竹市政府",
+          "url": "https://eoc.hccg.gov.tw/home.jsp?id=18&parentpath=0,1&mcustomize=municipalnews_view.jsp&toolsflag=Y&dataserno=b92ddd92-c9b1-45bc-bfd8-093b49980076&t=MunicipalNews&mserno=201604130001",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-7b27def62d",
+          "prep_type": "other",
+          "detail": "市府與養工處確認太原地下道抽水馬達運作順暢及積淹水自動警示柵欄系統功能完整。",
+          "quantity": null,
+          "time": null,
+          "outlet": "新竹市政府",
+          "url": "https://eoc.hccg.gov.tw/home.jsp?id=18&parentpath=0,1&mcustomize=municipalnews_view.jsp&toolsflag=Y&dataserno=b92ddd92-c9b1-45bc-bfd8-093b49980076&t=MunicipalNews&mserno=201604130001",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-01bbfdb7f6",
+          "prep_type": "sandbag",
+          "detail": "市府提供沙包及L型防水擋板，民眾可前往三區公所領取沙包或借用擋板。",
+          "quantity": null,
+          "time": null,
+          "outlet": "新竹市政府",
+          "url": "https://eoc.hccg.gov.tw/home.jsp?id=18&parentpath=0,1&mcustomize=municipalnews_view.jsp&toolsflag=Y&dataserno=b92ddd92-c9b1-45bc-bfd8-093b49980076&t=MunicipalNews&mserno=201604130001",
+          "published": "2026-10-22"
+        }
+      ],
+      "person": [
+        {
+          "id": "m-26efe60ec0",
+          "person": "高虹安",
+          "role": "mayor",
+          "time": "2026-10-23T17:00:00+08:00",
+          "action": "主持災害應變中心工作會議，聽取各單位災情處置及防災整備進度。",
+          "outlet": "新竹市政府",
+          "url": "https://eoc.hccg.gov.tw/home.jsp?id=18&parentpath=0,1&mcustomize=municipalnews_view.jsp&toolsflag=Y&dataserno=e050e28a-00e0-4bfc-9908-6eb533199a19&t=MunicipalNews&mserno=201604130001",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "m-d41cf94cc4",
+          "person": "高虹安",
+          "role": "mayor",
+          "time": null,
+          "action": "以災害應變中心指揮官身分劃定新竹漁港、海山漁港及頭前溪以南沿岸區域為管制區。",
+          "outlet": "新竹市政府",
+          "url": "https://eoc.hccg.gov.tw/home.jsp?id=18&parentpath=0,1&mcustomize=municipalnews_view.jsp&toolsflag=Y&dataserno=202610220009&t=MunicipalNews&mserno=201604130001",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "m-30114316ed",
+          "person": "高虹安",
+          "role": "mayor",
+          "time": "2026-10-22T16:45:00+08:00",
+          "action": "召開防颱整備會議，並宣布新竹市災害應變中心自17時30分起提升為一級開設。",
+          "outlet": "新竹市政府",
+          "url": "https://eoc.hccg.gov.tw/home.jsp?id=18&parentpath=0,1&mcustomize=municipalnews_view.jsp&toolsflag=Y&dataserno=9204d24a-6c8d-4ceb-b9b5-61656623e6ba&t=MunicipalNews&mserno=201604130001",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "m-4f0827be9f",
+          "person": "高虹安",
+          "role": "mayor",
+          "time": null,
+          "action": "率領消防局、民政處、都發處、環保局及養工處等局處視察北大路在建工程、台鐵北新竹站、太原地下道、果菜市場周邊側溝等4處。",
+          "outlet": "新竹市政府",
+          "url": "https://eoc.hccg.gov.tw/home.jsp?id=18&parentpath=0,1&mcustomize=municipalnews_view.jsp&toolsflag=Y&dataserno=b92ddd92-c9b1-45bc-bfd8-093b49980076&t=MunicipalNews&mserno=201604130001",
+          "published": "2026-10-22"
+        }
+      ],
+      "status": {
+        "metro": [],
+        "power": [
+          {
+            "label": "台電停電戶數（參考值）",
+            "text": "台電停復電查詢系統顯示（資料時點 10月23日 22:00），新竹市目前停電 122 戶、曾經停電累計 2,028 戶（參考值：來自台電內部查詢端點，欄位意義為推得，非台電公告統計）。",
+            "level": null,
+            "source_name": "台電停復電查詢系統",
+            "source_url": "https://service.taipower.com.tw/psvs1/",
+            "updated_at": "2026-10-23T22:00:00+08:00"
+          }
+        ],
+        "landslide": [
+          {
+            "label": "土石流警戒",
+            "text": "目前無土石流警戒",
+            "level": "info",
+            "source_name": "農業部水土保持署",
+            "source_url": "https://246.ardswc.gov.tw/",
+            "updated_at": "2026-10-23T21:21:00+08:00"
+          }
+        ]
+      },
+      "rescue": []
+    },
+    {
+      "id": "hsinchu_county",
+      "name": "新竹縣",
+      "official": {
+        "eoc_tier": 1,
+        "eoc_opened_at": "2026-10-22T13:56:00+08:00",
+        "eoc_opened_at_note": "專案首次開設時間，不一定是目前等級的起算時間",
+        "work_school_status": "今天停止上班、停止上課。 明天已達停止上班及上課標準。"
+      },
+      "mayor": {
+        "name": "楊文科",
+        "title": "縣長"
+      },
+      "prep": [
+        {
+          "id": "p-de711f38ea",
+          "prep_type": "other",
+          "detail": "新竹縣災害應變中心於23日上午8時一級開設。",
+          "quantity": null,
+          "time": "2026-10-23T08:00:00+08:00",
+          "outlet": "新竹縣政府",
+          "url": "https://www.hsinchu.gov.tw/News_Content.aspx?n=153&s=357755",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "p-5d0d277f1e",
+          "prep_type": "other",
+          "detail": "新竹縣府辦理竹北市豆子埔溪的河道整理與清淤工作。",
+          "quantity": null,
+          "time": null,
+          "outlet": "新竹縣政府",
+          "url": "https://www.hsinchu.gov.tw/News_Content.aspx?n=153&s=357755",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "p-a0e7fde1fa",
+          "prep_type": "other",
+          "detail": "新竹縣工務處表示，大型抽水機、水門等防洪設施已全數檢整完畢且功能正常。",
+          "quantity": null,
+          "time": null,
+          "outlet": "新竹縣政府",
+          "url": "https://www.hsinchu.gov.tw/News_Content.aspx?n=153&s=357755",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "p-424cbe5d3a",
+          "prep_type": "other",
+          "detail": "新竹縣府預警性封閉五峰鄉、北埔鄉山區及竹北市鳳山溪水防道路等路段。",
+          "quantity": null,
+          "time": null,
+          "outlet": "新竹縣政府",
+          "url": "https://www.hsinchu.gov.tw/News_Content.aspx?n=153&s=357755",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "p-3d807aac82",
+          "prep_type": "evacuation",
+          "detail": "新竹縣災害應變中心展開預防性撤離，截至23日下午3時，共撤離212人（尖石鄉87人、五峰鄉125人）。",
+          "quantity": "截至23日下午3時，共撤離212人",
+          "time": null,
+          "outlet": "新竹縣政府",
+          "url": "https://www.hsinchu.gov.tw/News_Content.aspx?n=153&s=357756",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "p-2520327e65",
+          "prep_type": "shelter",
+          "detail": "五峰鄉於中午12時開設4處收容所。",
+          "quantity": "4處",
+          "time": "2026-10-23T12:00:00+08:00",
+          "outlet": "新竹縣政府",
+          "url": "https://www.hsinchu.gov.tw/News_Content.aspx?n=153&s=357756",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "p-43ddf1dd38",
+          "prep_type": "pump",
+          "detail": "工務處表示應變中心三級開設將開始預佈移動式抽水機7台：拔子窟堤防2台、鳳山溪支線1台、東科路地下道1台，另有3台因應易淹水路段災情調配使用。",
+          "quantity": "7台",
+          "time": null,
+          "outlet": "新竹縣政府",
+          "url": "https://www.hsinchu.gov.tw/News_Content.aspx?n=153&s=357722",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-3c381fb2ba",
+          "prep_type": "other",
+          "detail": "工務處表示11座水門皆完成檢整。",
+          "quantity": "11座",
+          "time": null,
+          "outlet": "新竹縣政府",
+          "url": "https://www.hsinchu.gov.tw/News_Content.aspx?n=153&s=357722",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-8da08886d5",
+          "prep_type": "other",
+          "detail": "社會處已要求各鄉鎮市公所確實整備收容處所，並針對尖石鄉、五峰鄉及竹東鎮提前準備民生物資。",
+          "quantity": null,
+          "time": null,
+          "outlet": "新竹縣政府",
+          "url": "https://www.hsinchu.gov.tw/News_Content.aspx?n=153&s=357722",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-e4d9183fa6",
+          "prep_type": "other",
+          "detail": "農業處已通報各鄉鎮市公所及農漁民團體密切注意並宣導相關防範措施。",
+          "quantity": null,
+          "time": null,
+          "outlet": "新竹縣政府",
+          "url": "https://www.hsinchu.gov.tw/News_Content.aspx?n=153&s=357738",
+          "published": "2026-10-22"
+        }
+      ],
+      "person": [
+        {
+          "id": "m-96c074e35f",
+          "person": "楊文科",
+          "role": "mayor",
+          "time": null,
+          "action": "23日上午前往文興高中活動中心工地及竹北市豆子埔溪視察防颱整備情形，並指示相關局處全面做好防汛準備。",
+          "outlet": "新竹縣政府",
+          "url": "https://www.hsinchu.gov.tw/News_Content.aspx?n=153&s=357755",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "m-c0ce501229",
+          "person": "楊文科",
+          "role": "mayor",
+          "time": null,
+          "action": "呼籲鄉親務必提高警覺，盡量不要外出，也不要前往山區或行經封閉路段。",
+          "outlet": "新竹縣政府",
+          "url": "https://www.hsinchu.gov.tw/News_Content.aspx?n=153&s=357756",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "m-c4075f6004",
+          "person": "楊文科",
+          "role": "mayor",
+          "time": null,
+          "action": "楊文科呼籲農漁民朋友隨時注意颱風動態，提前做好農作物及養殖水產物災害防範措施。",
+          "outlet": "新竹縣政府",
+          "url": "https://www.hsinchu.gov.tw/News_Content.aspx?n=153&s=357738",
+          "published": "2026-10-22"
+        }
+      ],
+      "status": {
+        "metro": [],
+        "power": [
+          {
+            "label": "台電停電戶數（參考值）",
+            "text": "台電停復電查詢系統顯示（資料時點 10月23日 22:00），新竹縣目前停電 305 戶、曾經停電累計 4,130 戶（參考值：來自台電內部查詢端點，欄位意義為推得，非台電公告統計）。",
+            "level": null,
+            "source_name": "台電停復電查詢系統",
+            "source_url": "https://service.taipower.com.tw/psvs1/",
+            "updated_at": "2026-10-23T22:00:00+08:00"
+          }
+        ],
+        "landslide": [
+          {
+            "label": "土石流警戒",
+            "text": "黃色警戒 28 處（尖石鄉 28）",
+            "level": "warn",
+            "source_name": "農業部水土保持署",
+            "source_url": "https://246.ardswc.gov.tw/",
+            "updated_at": "2026-10-23T21:21:00+08:00"
+          }
+        ]
+      },
+      "rescue": []
+    },
+    {
+      "id": "miaoli",
+      "name": "苗栗縣",
+      "official": {
+        "eoc_tier": 1,
+        "eoc_opened_at": "2026-10-22T11:09:00+08:00",
+        "eoc_opened_at_note": "專案首次開設時間，不一定是目前等級的起算時間",
+        "work_school_status": "今天停止上班、停止上課。 明天已達停止上班及上課標準。"
+      },
+      "mayor": {
+        "name": "鍾東錦",
+        "title": "縣長"
+      },
+      "prep": [
+        {
+          "id": "p-0cbbaeab23",
+          "prep_type": "other",
+          "detail": "縣府於演唱會現場加派安全維護人員、加強場館設施與出入口檢查，並安排周邊交通疏導。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259988.htm",
+          "published": "2026-10-23T22:14:00+08:00"
+        },
+        {
+          "id": "p-445b5dc540",
+          "prep_type": "other",
+          "detail": "苗栗縣災害應變中心開設。",
+          "quantity": null,
+          "time": null,
+          "outlet": "苗栗縣政府",
+          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1007478",
+          "published": "2026-10-23T13:39:00+08:00"
+        },
+        {
+          "id": "p-66928f660a",
+          "prep_type": "other",
+          "detail": "苗栗縣災害應變中心於22日晚間8點二級開設。",
+          "quantity": null,
+          "time": "2026-10-22T20:00:00+08:00",
+          "outlet": "苗栗縣政府",
+          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1007447",
+          "published": "2026-10-22T16:47:00+08:00"
+        },
+        {
+          "id": "p-1a41a3890e",
+          "prep_type": "pump",
+          "detail": "縣府祕書長指示水利處預先布建抽水機，並監控縣內土石流潛勢溪流。",
+          "quantity": null,
+          "time": null,
+          "outlet": "苗栗縣政府",
+          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1007447",
+          "published": "2026-10-22T16:47:00+08:00"
+        },
+        {
+          "id": "p-dc11c2d57a",
+          "prep_type": "shelter",
+          "detail": "縣府祕書長請社會處預先整備各處收容所開設事宜。",
+          "quantity": null,
+          "time": null,
+          "outlet": "苗栗縣政府",
+          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1007447",
+          "published": "2026-10-22T16:47:00+08:00"
+        }
+      ],
+      "person": [
+        {
+          "id": "m-99096c5e2c",
+          "person": "鍾東錦",
+          "role": "mayor",
+          "time": null,
+          "action": "在「2026山釀青春演唱會」首場登台演唱〈偶然〉，並與黃連煜合唱〈日出〉。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259988.htm",
+          "published": "2026-10-23T22:14:00+08:00"
+        },
+        {
+          "id": "m-b686ec1575",
+          "person": "鍾東錦",
+          "role": "mayor",
+          "time": null,
+          "action": "表示縣府曾評估取消、延期或停辦演唱會，因演出時間早已敲定，最後決定照常舉行。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259988.htm",
+          "published": "2026-10-23T22:14:00+08:00"
+        },
+        {
+          "id": "m-c909d6a95c",
+          "person": "鍾東錦",
+          "role": "mayor",
+          "time": null,
+          "action": "鍾東錦表示已指示社會處、衛生局前往關心傷者。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259952.htm",
+          "published": "2026-10-23T19:43:00+08:00"
+        },
+        {
+          "id": "m-5749aaaff9",
+          "person": "鍾東錦",
+          "role": "mayor",
+          "time": null,
+          "action": "鍾東錦表示上午前往災害應變中心，與苗栗縣18鄉鎮市長逐一視訊，了解各地災情。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259952.htm",
+          "published": "2026-10-23T19:43:00+08:00"
+        },
+        {
+          "id": "m-ad4a740042",
+          "person": "鍾東錦",
+          "role": "mayor",
+          "time": null,
+          "action": "鍾東錦到災害應變中心主持工作會報，並與18鄉鎮市長視訊，另指示社會處、衛生局前往醫院慰問傷者。",
+          "outlet": "苗栗縣政府",
+          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1007478",
+          "published": "2026-10-23T13:39:00+08:00"
+        },
+        {
+          "id": "m-3638b55c49",
+          "person": "鍾東錦",
+          "role": "mayor",
+          "time": null,
+          "action": "鍾東錦表示山釀青春演唱會仍維持原時間照常演出。",
+          "outlet": "苗栗縣政府",
+          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1007478",
+          "published": "2026-10-23T13:39:00+08:00"
+        },
+        {
+          "id": "m-c895767700",
+          "person": "李文斌",
+          "role": "speaker",
+          "time": null,
+          "action": "李文斌在臉書發文分享活動正常舉辦的訊息，並且提醒民眾注意行車安全。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259487.htm",
+          "published": "2026-10-22T22:50:00+08:00"
+        },
+        {
+          "id": "m-8795d0f00f",
+          "person": "鍾東錦",
+          "role": "mayor",
+          "time": null,
+          "action": "鍾東錦到竹南塭內德勝宮關心王船祭典籌備情形，並提醒颱風來襲期間做好各項防颱準備。",
+          "outlet": "苗栗縣政府",
+          "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1007453",
+          "published": "2026-10-22T18:40:00+08:00"
+        }
+      ],
+      "status": {
+        "metro": [],
+        "power": [
+          {
+            "label": "台電停電戶數（參考值）",
+            "text": "台電停復電查詢系統顯示（資料時點 10月23日 22:00），苗栗縣目前停電 323 戶、曾經停電累計 3,406 戶（參考值：來自台電內部查詢端點，欄位意義為推得，非台電公告統計）。",
+            "level": null,
+            "source_name": "台電停復電查詢系統",
+            "source_url": "https://service.taipower.com.tw/psvs1/",
+            "updated_at": "2026-10-23T22:00:00+08:00"
+          }
+        ],
+        "landslide": [
+          {
+            "label": "土石流警戒",
+            "text": "目前無土石流警戒",
+            "level": "info",
+            "source_name": "農業部水土保持署",
+            "source_url": "https://246.ardswc.gov.tw/",
+            "updated_at": "2026-10-23T21:21:00+08:00"
+          }
+        ]
+      },
+      "rescue": []
+    },
+    {
+      "id": "changhua",
+      "name": "彰化縣",
+      "official": {
+        "eoc_tier": 1,
+        "eoc_opened_at": "2026-10-22T12:00:00+08:00",
+        "eoc_opened_at_note": "專案首次開設時間，不一定是目前等級的起算時間",
+        "work_school_status": "今天停止上班、停止上課。 明天已達停止上班及上課標準。"
+      },
+      "mayor": {
+        "name": "王惠美",
+        "title": "縣長"
+      },
+      "prep": [
+        {
+          "id": "p-3717db4835",
+          "prep_type": "tree_construction",
+          "detail": "縣府請各公所會同權責機關加強轄內路樹巡查及修剪，針對有倒塌風險之路樹預為處置。",
+          "quantity": null,
+          "time": null,
+          "outlet": "彰化縣政府",
+          "url": "https://www.chcg.gov.tw/ch2/newsdetail.aspx?bull_id=440233",
+          "published": "2026-10-22"
+        }
+      ],
+      "person": [
+        {
+          "id": "m-d0121cc8e6",
+          "person": "王惠美",
+          "role": "mayor",
+          "time": null,
+          "action": "縣長王惠美在薔琵颱風第一次防颱整備應變會議中，籲請各單位加強戒備，提高警覺。",
+          "outlet": "彰化縣政府",
+          "url": "https://www.chcg.gov.tw/ch2/newsdetail.aspx?bull_id=440233",
+          "published": "2026-10-22"
+        }
+      ],
+      "status": {
+        "metro": [],
+        "power": [
+          {
+            "label": "台電停電戶數（參考值）",
+            "text": "台電停復電查詢系統顯示（資料時點 10月23日 22:00），彰化縣目前停電 3,070 戶、曾經停電累計 16,293 戶（參考值：來自台電內部查詢端點，欄位意義為推得，非台電公告統計）。",
+            "level": null,
+            "source_name": "台電停復電查詢系統",
+            "source_url": "https://service.taipower.com.tw/psvs1/",
+            "updated_at": "2026-10-23T22:00:00+08:00"
+          }
+        ],
+        "landslide": [
+          {
+            "label": "土石流警戒",
+            "text": "目前無土石流警戒",
+            "level": "info",
+            "source_name": "農業部水土保持署",
+            "source_url": "https://246.ardswc.gov.tw/",
+            "updated_at": "2026-10-23T21:21:00+08:00"
+          }
+        ]
+      },
+      "rescue": []
+    },
+    {
+      "id": "nantou",
+      "name": "南投縣",
+      "official": {
+        "eoc_tier": 1,
+        "eoc_opened_at": "2026-10-22T12:30:00+08:00",
+        "eoc_opened_at_note": "專案首次開設時間，不一定是目前等級的起算時間",
+        "work_school_status": "今天停止上班、停止上課。 明天已達停止上班及上課標準。"
+      },
+      "mayor": {
+        "name": "許淑華",
+        "title": "縣長"
+      },
+      "prep": [
+        {
+          "id": "p-cdcf36fc49",
+          "prep_type": "evacuation",
+          "detail": "截至22日晚間8時，南投縣疏散撤離1人。",
+          "quantity": "1人",
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259552.htm",
+          "published": "2026-10-23T08:07:00+08:00"
+        },
+        {
+          "id": "p-9db9b5c8fd",
+          "prep_type": "other",
+          "detail": "南投縣政府於22日下午4時成立一級災害應變中心。",
+          "quantity": null,
+          "time": "2026-10-22T16:00:00+08:00",
+          "outlet": "南投縣政府",
+          "url": "https://www.nantou.gov.tw/big5/news_content.php?dptid=376480000&cid=75&id=169151",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "p-48f0b4efa4",
+          "prep_type": "pump",
+          "detail": "各鄉鎮市公所的抽水機等均已完成整備，可視災情立即投入搶修救援。",
+          "quantity": null,
+          "time": null,
+          "outlet": "南投縣政府",
+          "url": "https://www.nantou.gov.tw/big5/news_content.php?dptid=376480000&cid=75&id=169151",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "p-579175b8bf",
+          "prep_type": "sandbag",
+          "detail": "各鄉鎮市公所的沙包等均已完成整備，可視災情立即投入搶修救援。",
+          "quantity": null,
+          "time": null,
+          "outlet": "南投縣政府",
+          "url": "https://www.nantou.gov.tw/big5/news_content.php?dptid=376480000&cid=75&id=169151",
+          "published": "2026-10-23"
+        }
+      ],
+      "person": [
+        {
+          "id": "m-840af1ad8c",
+          "person": "許淑華",
+          "role": "mayor",
+          "time": null,
+          "action": "縣長許淑華於23日上午前往災害應變中心聽取各單位簡報，並提醒民眾非必要請盡量不要外出或前往山區。",
+          "outlet": "南投縣政府",
+          "url": "https://www.nantou.gov.tw/big5/news_content.php?dptid=376480000&cid=75&id=169151",
+          "published": "2026-10-23"
+        }
+      ],
+      "status": {
+        "metro": [],
+        "power": [
+          {
+            "label": "台電停電戶數（參考值）",
+            "text": "台電停復電查詢系統顯示（資料時點 10月23日 22:00），南投縣目前停電 1,267 戶、曾經停電累計 4,260 戶（參考值：來自台電內部查詢端點，欄位意義為推得，非台電公告統計）。",
+            "level": null,
+            "source_name": "台電停復電查詢系統",
+            "source_url": "https://service.taipower.com.tw/psvs1/",
+            "updated_at": "2026-10-23T22:00:00+08:00"
+          }
+        ],
+        "landslide": [
+          {
+            "label": "土石流警戒",
+            "text": "目前無土石流警戒",
+            "level": "info",
+            "source_name": "農業部水土保持署",
+            "source_url": "https://246.ardswc.gov.tw/",
+            "updated_at": "2026-10-23T21:21:00+08:00"
+          }
+        ]
+      },
+      "rescue": []
+    },
+    {
+      "id": "yunlin",
+      "name": "雲林縣",
+      "official": {
+        "eoc_tier": 1,
+        "eoc_opened_at": "2026-10-22T21:00:00+08:00",
+        "eoc_opened_at_note": "專案首次開設時間，不一定是目前等級的起算時間",
+        "work_school_status": "今天停止上班、停止上課。 明天已達停止上班及上課標準。"
+      },
+      "mayor": {
+        "name": "張麗善",
+        "title": "縣長"
+      },
+      "prep": [
+        {
+          "id": "p-8822144e34",
+          "prep_type": "evacuation",
+          "detail": "雲林縣民政處表示，水林1戶因位處低窪地區，已預防性撤離依親。",
+          "quantity": "1戶",
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259685.htm",
+          "published": "2026-10-23T11:17:00+08:00"
+        },
+        {
+          "id": "p-e3ec071ea8",
+          "prep_type": "other",
+          "detail": "雲林縣交通工務局表示，崙背鄉154縣道豐榮至舊庄路段約2公里於22日下午5時完成預防性封路。",
+          "quantity": "約2公里",
+          "time": "2026-10-22T17:00:00+08:00",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259685.htm",
+          "published": "2026-10-23T11:17:00+08:00"
+        },
+        {
+          "id": "p-b9425ccd6d",
+          "prep_type": "other",
+          "detail": "雲林縣台西鄉海新橋預警性封橋。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259685.htm",
+          "published": "2026-10-23T11:17:00+08:00"
+        },
+        {
+          "id": "p-fe0898fee8",
+          "prep_type": "other",
+          "detail": "雲林縣應變中心預定於22日晚間9時提升為一級開設。",
+          "quantity": null,
+          "time": "2026-10-22T21:00:00+08:00",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259405.htm",
+          "published": "2026-10-22T18:20:00+08:00"
+        },
+        {
+          "id": "p-8aa679af1b",
+          "prep_type": "pump",
+          "detail": "截至報導時，雲林縣內各類移動式抽水機共471台均已完成預先檢查。",
+          "quantity": "471台",
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259401.htm",
+          "published": "2026-10-22T18:13:00+08:00"
+        },
+        {
+          "id": "p-db4437ca8a",
+          "prep_type": "other",
+          "detail": "雲林縣政府水利處對滯洪池、前池等防洪設施提前辦理預抽。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259401.htm",
+          "published": "2026-10-22T18:13:00+08:00"
+        },
+        {
+          "id": "p-a67057545f",
+          "prep_type": "other",
+          "detail": "截至報導時，雲林縣環保局已提前通知轄內144家砂石場及營建工地加強污染防制。",
+          "quantity": "144家",
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259387.htm",
+          "published": "2026-10-22T18:02:00+08:00"
+        }
+      ],
+      "person": [
+        {
+          "id": "m-2e37cb8f0d",
+          "person": "張麗善",
+          "role": "mayor",
+          "time": null,
+          "action": "張麗善呼籲鄉親隨時關注颱風資訊、避免外出、低窪地區留意淹水，並做好防災準備。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259685.htm",
+          "published": "2026-10-23T11:17:00+08:00"
+        },
+        {
+          "id": "m-e98039fc25",
+          "person": "張麗善",
+          "role": "mayor",
+          "time": null,
+          "action": "主持薔琵颱風第一次工作會議，要求各單位及鄉鎮市公所加強防颱整備，並指示晚間9時提升為一級開設。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259405.htm",
+          "published": "2026-10-22T18:20:00+08:00"
+        },
+        {
+          "id": "m-1e379cf7ff",
+          "person": "張麗善",
+          "role": "mayor",
+          "time": null,
+          "action": "率縣府水利處、消防局團隊前往台西鄉視察防颱整備及海口大排工程，確認抽水設備、防潮閘門及排水設施運作情形。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259401.htm",
+          "published": "2026-10-22T18:13:00+08:00"
+        }
+      ],
+      "status": {
+        "metro": [],
+        "power": [
+          {
+            "label": "台電停電戶數（參考值）",
+            "text": "台電停復電查詢系統顯示（資料時點 10月23日 22:00），雲林縣目前停電 2,744 戶、曾經停電累計 26,422 戶（參考值：來自台電內部查詢端點，欄位意義為推得，非台電公告統計）。",
+            "level": null,
+            "source_name": "台電停復電查詢系統",
+            "source_url": "https://service.taipower.com.tw/psvs1/",
+            "updated_at": "2026-10-23T22:00:00+08:00"
+          }
+        ],
+        "landslide": [
+          {
+            "label": "土石流警戒",
+            "text": "目前無土石流警戒",
+            "level": "info",
+            "source_name": "農業部水土保持署",
+            "source_url": "https://246.ardswc.gov.tw/",
+            "updated_at": "2026-10-23T21:21:00+08:00"
+          }
+        ]
+      },
+      "rescue": []
+    },
+    {
+      "id": "chiayi_city",
+      "name": "嘉義市",
+      "official": {
+        "eoc_tier": 1,
+        "eoc_opened_at": "2026-10-22T16:01:00+08:00",
+        "eoc_opened_at_note": "專案首次開設時間，不一定是目前等級的起算時間",
+        "work_school_status": "今天停止上班、停止上課。 明天未達停止上班及上課標準。"
+      },
+      "mayor": {
+        "name": "黃敏惠",
+        "title": "市長"
+      },
+      "prep": [
+        {
+          "id": "p-92bda15950",
+          "prep_type": "floodgate",
+          "detail": "市府自23日上午8時起至24日下午3時止，對八掌溪左岸等三處水防道路的路邊停車格位禁止車輛進入停放。",
+          "quantity": "3處",
+          "time": "2026-10-23T08:00:00+08:00",
+          "outlet": "嘉義市政府",
+          "url": "https://www.chiayi.gov.tw/News_Content.aspx?n=455&s=956691",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-be3c284e45",
+          "prep_type": "other",
+          "detail": "嘉義市政府於22日晚間9時30分將災害應變中心提升一級開設。",
+          "quantity": null,
+          "time": "2026-10-22T21:30:00+08:00",
+          "outlet": "嘉義市政府",
+          "url": "https://www.chiayi.gov.tw/News_Content.aspx?n=455&s=956697",
+          "published": "2026-10-22"
+        }
+      ],
+      "person": [
+        {
+          "id": "m-5709a27fbb",
+          "person": "黃敏惠",
+          "role": "mayor",
+          "time": "2026-10-22T21:30:00+08:00",
+          "action": "市長黃敏惠召開工作會議，將災害應變中心提升一級開設。",
+          "outlet": "嘉義市政府",
+          "url": "https://www.chiayi.gov.tw/News_Content.aspx?n=455&s=956697",
+          "published": "2026-10-22"
+        }
+      ],
+      "status": {
+        "metro": [],
+        "power": [
+          {
+            "label": "台電停電戶數（參考值）",
+            "text": "台電停復電查詢系統顯示（資料時點 10月23日 22:00），嘉義市目前停電 0 戶、曾經停電累計 6 戶（參考值：來自台電內部查詢端點，欄位意義為推得，非台電公告統計）。",
+            "level": null,
+            "source_name": "台電停復電查詢系統",
+            "source_url": "https://service.taipower.com.tw/psvs1/",
+            "updated_at": "2026-10-23T22:00:00+08:00"
+          }
+        ],
+        "landslide": [
+          {
+            "label": "土石流警戒",
+            "text": "目前無土石流警戒",
+            "level": "info",
+            "source_name": "農業部水土保持署",
+            "source_url": "https://246.ardswc.gov.tw/",
+            "updated_at": "2026-10-23T21:21:00+08:00"
+          }
+        ]
+      },
+      "rescue": []
+    },
+    {
+      "id": "chiayi_county",
+      "name": "嘉義縣",
+      "official": {
+        "eoc_tier": 1,
+        "eoc_opened_at": "2026-10-22T16:00:00+08:00",
+        "eoc_opened_at_note": "專案首次開設時間，不一定是目前等級的起算時間",
+        "work_school_status": "今天停止上班、停止上課。 明天未達停止上班及上課標準。"
+      },
+      "mayor": {
+        "name": "翁章梁",
+        "title": "縣長"
+      },
+      "prep": [
+        {
+          "id": "p-87dc3183de",
+          "prep_type": "other",
+          "detail": "嘉義縣政府於23日上午召開災害應變中心第一次工作會報。",
+          "quantity": null,
+          "time": null,
+          "outlet": "嘉義縣政府",
+          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=258099",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "p-66139b9f33",
+          "prep_type": "sandbag",
+          "detail": "截至報導時，全縣各鄉鎮市公所已整備5,263個砂包、610個太空包，水利處另備有2萬個砂包、2,000個太空包。",
+          "quantity": "砂包5,263個、太空包610個(公所)；砂包2萬個、太空包2,000個(水利處)",
+          "time": null,
+          "outlet": "嘉義縣政府",
+          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=258099",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "p-87d831a96d",
+          "prep_type": "pump",
+          "detail": "截至報導時，水利處出動276部移動式抽水機。",
+          "quantity": "276部",
+          "time": null,
+          "outlet": "嘉義縣政府",
+          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=258099",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "p-f942c26623",
+          "prep_type": "other",
+          "detail": "嘉義縣經濟發展處22日巡查台82線快速道路沿線22座大型廣告看板，發現一座損毀並已聯繫公所及廣告業者拆除。",
+          "quantity": "22座",
+          "time": null,
+          "outlet": "嘉義縣政府",
+          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=258099",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "p-51aa99c722",
+          "prep_type": "other",
+          "detail": "嘉義縣政府於22日下午召開防颱整備會議，盤點各項防災整備工作。",
+          "quantity": null,
+          "time": null,
+          "outlet": "嘉義縣政府",
+          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=258067",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-3989336691",
+          "prep_type": "other",
+          "detail": "嘉義縣災害應變中心公告阿里山鄉等登山遊憩區、東石鄉等沿海地區及漁港、八掌溪等行水區域為危險區域管制範圍。",
+          "quantity": null,
+          "time": "2026-10-22T18:15:00+08:00",
+          "outlet": "嘉義縣政府",
+          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=258078",
+          "published": "2026-10-22"
+        }
+      ],
+      "person": [
+        {
+          "id": "m-96de5b5cb1",
+          "person": "翁章梁",
+          "role": "mayor",
+          "time": null,
+          "action": "23日上午在災害應變中心第一次工作會報擔任指揮官，聽取各局處防颱整備及災情處理情形。",
+          "outlet": "嘉義縣政府",
+          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=258099",
+          "published": "2026-10-23"
+        },
+        {
+          "id": "m-fe177c9dcb",
+          "person": "翁章梁",
+          "role": "mayor",
+          "time": null,
+          "action": "22日下午親自主持防颱整備會議。",
+          "outlet": "嘉義縣政府",
+          "url": "https://www.cyhg.gov.tw/News_Content.aspx?n=16&s=258067",
+          "published": "2026-10-22"
+        }
+      ],
+      "status": {
+        "metro": [],
+        "power": [
+          {
+            "label": "台電停電戶數（參考值）",
+            "text": "台電停復電查詢系統顯示（資料時點 10月23日 22:00），嘉義縣目前停電 3,783 戶、曾經停電累計 14,843 戶（參考值：來自台電內部查詢端點，欄位意義為推得，非台電公告統計）。",
+            "level": null,
+            "source_name": "台電停復電查詢系統",
+            "source_url": "https://service.taipower.com.tw/psvs1/",
+            "updated_at": "2026-10-23T22:00:00+08:00"
+          }
+        ],
+        "landslide": [
+          {
+            "label": "土石流警戒",
+            "text": "目前無土石流警戒",
+            "level": "info",
+            "source_name": "農業部水土保持署",
+            "source_url": "https://246.ardswc.gov.tw/",
+            "updated_at": "2026-10-23T21:21:00+08:00"
+          }
+        ]
+      },
+      "rescue": []
+    },
+    {
+      "id": "pingtung",
+      "name": "屏東縣",
+      "official": {
+        "eoc_tier": 1,
+        "eoc_opened_at": "2026-10-22T08:22:00+08:00",
+        "eoc_opened_at_note": "專案首次開設時間，不一定是目前等級的起算時間",
+        "work_school_status": "今天停止上班、停止上課。 明天未達停止上班及上課標準。"
+      },
+      "mayor": {
+        "name": "周春米",
+        "title": "縣長"
+      },
+      "prep": [
+        {
+          "id": "p-4c65489d5d",
+          "prep_type": "other",
+          "detail": "屏東縣政府於22日下午公告海岸禁限令，禁止民眾進入管制區從事水域活動。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259825.htm",
+          "published": "2026-10-23T15:18:00+08:00"
+        },
+        {
+          "id": "p-5eb740b7d5",
+          "prep_type": "other",
+          "detail": "屏東縣政府召開災防整備會議，邀集備份指揮部指揮官與會，討論災害情境、應變處置及跨單位支援機制。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259473.htm",
+          "published": "2026-10-22T21:32:00+08:00"
+        },
+        {
+          "id": "p-30f8c9ea81",
+          "prep_type": "other",
+          "detail": "屏東縣災害應變中心於22日下午4時提升一級開設。",
+          "quantity": null,
+          "time": "2026-10-22T16:00:00+08:00",
+          "outlet": "屏東縣政府",
+          "url": "https://www.pthg.gov.tw/News_Content.aspx?n=EC690F93E81FF22D&s=E98287AD06B3338E",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-c594a025dd",
+          "prep_type": "pump",
+          "detail": "截至報導時，水利處於林邊、佳冬、東港易淹水熱區預布161部移動式抽水機，尚有12台待命佈設中。",
+          "quantity": "161部",
+          "time": null,
+          "outlet": "屏東縣政府",
+          "url": "https://www.pthg.gov.tw/News_Content.aspx?n=EC690F93E81FF22D&s=E98287AD06B3338E",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "p-45ec86dcb2",
+          "prep_type": "sandbag",
+          "detail": "縣府於重要防災據點預置消波塊及太空包等防汛資材。",
+          "quantity": null,
+          "time": null,
+          "outlet": "屏東縣政府",
+          "url": "https://www.pthg.gov.tw/News_Content.aspx?n=EC690F93E81FF22D&s=E98287AD06B3338E",
+          "published": "2026-10-22"
+        }
+      ],
+      "person": [
+        {
+          "id": "m-b1ece87fa4",
+          "person": "周春米",
+          "role": "mayor",
+          "time": "2026-10-22T16:00:00+08:00",
+          "action": "縣長周春米前往屏東縣災害應變中心主持第一次工作會報，並宣布下午4時提升一級開設。",
+          "outlet": "屏東縣政府",
+          "url": "https://www.pthg.gov.tw/News_Content.aspx?n=EC690F93E81FF22D&s=E98287AD06B3338E",
+          "published": "2026-10-22"
+        },
+        {
+          "id": "m-e5bb83feea",
+          "person": "周春米",
+          "role": "mayor",
+          "time": null,
+          "action": "縣長周春米呼籲農漁民朋友應密切注意颱風動態，做好農漁災害防範措施。",
+          "outlet": "屏東縣政府",
+          "url": "https://www.pthg.gov.tw/News_Content.aspx?n=EC690F93E81FF22D&s=EB1DB95E00261702",
+          "published": "2026-10-22"
+        }
+      ],
+      "status": {
+        "metro": [],
+        "power": [
+          {
+            "label": "台電停電戶數（參考值）",
+            "text": "台電停復電查詢系統顯示（資料時點 10月23日 22:00），屏東縣目前停電 0 戶、曾經停電累計 1,716 戶（參考值：來自台電內部查詢端點，欄位意義為推得，非台電公告統計）。",
+            "level": null,
+            "source_name": "台電停復電查詢系統",
+            "source_url": "https://service.taipower.com.tw/psvs1/",
+            "updated_at": "2026-10-23T22:00:00+08:00"
+          }
+        ],
+        "landslide": [
+          {
+            "label": "土石流警戒",
+            "text": "目前無土石流警戒",
+            "level": "info",
+            "source_name": "農業部水土保持署",
+            "source_url": "https://246.ardswc.gov.tw/",
+            "updated_at": "2026-10-23T21:21:00+08:00"
+          }
+        ]
+      },
+      "rescue": []
+    },
+    {
+      "id": "yilan",
+      "name": "宜蘭縣",
+      "official": {
+        "eoc_tier": 1,
+        "eoc_opened_at": "2026-10-21T23:30:00+08:00",
+        "eoc_opened_at_note": "專案首次開設時間，不一定是目前等級的起算時間",
+        "work_school_status": "今天停止上班、停止上課。 明天已達停止上班及上課標準。"
+      },
+      "mayor": {
+        "name": "林茂盛",
+        "title": "代理縣長"
+      },
+      "prep": [
+        {
+          "id": "p-8745b7f49c",
+          "prep_type": "evacuation",
+          "detail": "大同鄉災害防救中心決議於23日上午全面啟動大同鄉英士部落預防性撤村。截至報導時，撤離與收容安置共286人。",
+          "quantity": "截至報導時，286人",
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259759.htm",
+          "published": "2026-10-23T12:58:00+08:00"
+        },
+        {
+          "id": "p-5dee61695d",
+          "prep_type": "shelter",
+          "detail": "截至報導時，復興村活動中心收容共計10名英士部落村民，另有276名村民選擇依親。",
+          "quantity": "截至報導時，收容10名",
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259759.htm",
+          "published": "2026-10-23T12:58:00+08:00"
+        },
+        {
+          "id": "p-f366b95e8a",
+          "prep_type": "evacuation",
+          "detail": "截至22日晚間8時，宜蘭縣疏散撤離350人。",
+          "quantity": "350人",
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259552.htm",
+          "published": "2026-10-23T08:07:00+08:00"
+        },
+        {
+          "id": "p-4b6e93df0b",
+          "prep_type": "other",
+          "detail": "宜蘭縣政府已公告劃設警戒區域。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259423.htm",
+          "published": "2026-10-22T19:03:00+08:00"
+        },
+        {
+          "id": "p-cd3900ec17",
+          "prep_type": "pump",
+          "detail": "縣府已預先佈設移動式抽水機，並完成抽水站試運轉。",
+          "quantity": null,
+          "time": null,
+          "outlet": "宜蘭縣政府",
+          "url": "https://www.e-land.gov.tw/News_Content.aspx?n=2720&s=411195",
+          "published": "2026-10-22T10:50:00+08:00"
+        },
+        {
+          "id": "p-a63df440b4",
+          "prep_type": "sandbag",
+          "detail": "縣府已備妥防汛沙包。",
+          "quantity": null,
+          "time": null,
+          "outlet": "宜蘭縣政府",
+          "url": "https://www.e-land.gov.tw/News_Content.aspx?n=2720&s=411195",
+          "published": "2026-10-22T10:50:00+08:00"
+        },
+        {
+          "id": "p-b448dc0990",
+          "prep_type": "other",
+          "detail": "宜蘭縣災害應變中心二級開設，各防救災編組單位全面進駐。",
+          "quantity": null,
+          "time": "2026-10-21T23:30:00+08:00",
+          "outlet": "宜蘭縣政府",
+          "url": "https://www.e-land.gov.tw/News_Content.aspx?n=2720&s=411195",
+          "published": "2026-10-22T10:50:00+08:00"
+        },
+        {
+          "id": "p-a31a1c81ed",
+          "prep_type": "tree_construction",
+          "detail": "縣府針對宜蘭橋下游農田水利署宜蘭管理處施工工區，督促施工單位儘速撤離大型機具及移除施工圍籬。",
+          "quantity": null,
+          "time": null,
+          "outlet": "宜蘭縣政府",
+          "url": "https://www.e-land.gov.tw/News_Content.aspx?n=2720&s=411195",
+          "published": "2026-10-22T10:50:00+08:00"
+        },
+        {
+          "id": "p-6e7acf708d",
+          "prep_type": "shelter",
+          "detail": "縣府向各公所確保避難收容處所開設能量及物資儲備足夠，並針對獨居長者及弱勢族群預先做好關懷及收容安置整備。",
+          "quantity": null,
+          "time": null,
+          "outlet": "宜蘭縣政府",
+          "url": "https://www.e-land.gov.tw/News_Content.aspx?n=2720&s=411195",
+          "published": "2026-10-22T10:50:00+08:00"
+        }
+      ],
+      "person": [
+        {
+          "id": "m-1484a648f0",
+          "person": "林茂盛",
+          "role": "mayor",
+          "time": null,
+          "action": "於22日召開薔琵颱風第一次工作會議，責成縣府團隊、軍方與民間防救災夥伴通力合作。",
+          "outlet": "宜蘭縣政府",
+          "url": "https://www.e-land.gov.tw/News_Content.aspx?n=2720&s=411195",
+          "published": "2026-10-22T10:50:00+08:00"
+        }
+      ],
+      "status": {
+        "metro": [],
+        "power": [
+          {
+            "label": "台電停電戶數（參考值）",
+            "text": "台電停復電查詢系統顯示（資料時點 10月23日 22:00），宜蘭縣目前停電 1,104 戶、曾經停電累計 4,093 戶（參考值：來自台電內部查詢端點，欄位意義為推得，非台電公告統計）。",
+            "level": null,
+            "source_name": "台電停復電查詢系統",
+            "source_url": "https://service.taipower.com.tw/psvs1/",
+            "updated_at": "2026-10-23T22:00:00+08:00"
+          }
+        ],
+        "landslide": [
+          {
+            "label": "土石流警戒",
+            "text": "黃色警戒 57 處（大同鄉 44、南澳鄉 13）",
+            "level": "warn",
+            "source_name": "農業部水土保持署",
+            "source_url": "https://246.ardswc.gov.tw/",
+            "updated_at": "2026-10-23T21:21:00+08:00"
+          }
+        ]
+      },
+      "rescue": []
+    },
+    {
+      "id": "hualien",
+      "name": "花蓮縣",
+      "official": {
+        "eoc_tier": 1,
+        "eoc_opened_at": "2026-10-21T15:00:00+08:00",
+        "eoc_opened_at_note": "專案首次開設時間，不一定是目前等級的起算時間",
+        "work_school_status": "今天停止上班、停止上課。 明天未達停止上班及上課標準。"
+      },
+      "mayor": {
+        "name": "徐榛蔚",
+        "title": "縣長"
+      },
+      "prep": [
+        {
+          "id": "p-c7f36976fd",
+          "prep_type": "other",
+          "detail": "花蓮縣政府宣布台9線蘇花和仁至崇德段、台8線關原至太魯閣實施預警性封路。",
+          "quantity": null,
+          "time": "2026-10-23T09:30:00+08:00",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259603.htm",
+          "published": "2026-10-23T09:41:00+08:00"
+        },
+        {
+          "id": "p-883b1848ab",
+          "prep_type": "evacuation",
+          "detail": "截至22日晚間8時，花蓮縣疏散撤離565人。",
+          "quantity": "565人",
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259552.htm",
+          "published": "2026-10-23T08:07:00+08:00"
+        },
+        {
+          "id": "p-e51116bec9",
+          "prep_type": "other",
+          "detail": "花蓮縣災害應變中心公告，將全縣海岸、海港及港埠等範圍劃設為警戒區，禁止民眾擅自進入。",
+          "quantity": null,
+          "time": "2026-10-22T08:00:00+08:00",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3258862.htm",
+          "published": "2026-10-22T08:53:00+08:00"
+        }
+      ],
+      "person": [
+        {
+          "id": "m-9055fe873c",
+          "person": "徐榛蔚",
+          "role": "mayor",
+          "time": null,
+          "action": "籲請農民朋友密切關注颱風動態，及早採取各項農作物防護措施。",
+          "outlet": "花蓮縣政府",
+          "url": "https://www.hl.gov.tw/News_Content.aspx?n=32725&s=232605",
+          "published": "2026-10-20"
+        }
+      ],
+      "status": {
+        "metro": [],
+        "power": [
+          {
+            "label": "台電停電戶數（參考值）",
+            "text": "台電停復電查詢系統顯示（資料時點 10月23日 22:00），花蓮縣目前停電 131 戶、曾經停電累計 3,792 戶（參考值：來自台電內部查詢端點，欄位意義為推得，非台電公告統計）。",
+            "level": null,
+            "source_name": "台電停復電查詢系統",
+            "source_url": "https://service.taipower.com.tw/psvs1/",
+            "updated_at": "2026-10-23T22:00:00+08:00"
+          }
+        ],
+        "landslide": [
+          {
+            "label": "土石流警戒",
+            "text": "目前無土石流警戒",
+            "level": "info",
+            "source_name": "農業部水土保持署",
+            "source_url": "https://246.ardswc.gov.tw/",
+            "updated_at": "2026-10-23T21:21:00+08:00"
+          }
+        ]
+      },
+      "rescue": []
+    },
+    {
+      "id": "taitung",
+      "name": "臺東縣",
+      "official": {
+        "eoc_tier": 2,
+        "eoc_opened_at": "2026-10-22T12:00:00+08:00",
+        "eoc_opened_at_note": "專案首次開設時間，不一定是目前等級的起算時間",
+        "work_school_status": "今天停止上班、停止上課。 明天未達停止上班及上課標準。"
+      },
+      "mayor": {
+        "name": "饒慶鈴",
+        "title": "縣長"
+      },
+      "prep": [],
+      "person": [
+        {
+          "id": "m-e88419203c",
+          "person": "王志輝",
+          "role": "vice_mayor",
+          "time": null,
+          "action": "王志輝受訪時表示，縣府依據專業氣象團隊與中央氣象署的分析數據，並參考各國預測資料進行綜合評估。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259590.htm",
+          "published": "2026-10-23T09:33:00+08:00"
+        },
+        {
+          "id": "m-60eda7bc09",
+          "person": "饒慶鈴",
+          "role": "mayor",
+          "time": null,
+          "action": "在臉書發文宣布台東23日停止上班、停止上課。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259533.htm",
+          "published": "2026-10-23T06:35:00+08:00",
+          "also": [
+            {
+              "outlet": "ETtoday新聞雲",
+              "url": "https://www.ettoday.net/news/20261023/3259530.htm"
+            },
+            {
+              "outlet": "ETtoday新聞雲",
+              "url": "https://www.ettoday.net/news/20261023/3259590.htm"
+            }
+          ]
+        },
+        {
+          "id": "m-7c90759762",
+          "person": "饒慶鈴",
+          "role": "mayor",
+          "time": null,
+          "action": "發文通報台東縣全縣23日因受颱風影響停止上班、停止上課。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259531.htm",
+          "published": "2026-10-23T06:20:00+08:00"
+        },
+        {
+          "id": "m-6787269c9c",
+          "person": "饒慶鈴",
+          "role": "mayor",
+          "time": null,
+          "action": "在官方臉書發布停班課消息，宣布除蘭嶼鄉、綠島鄉停止上班上課外，其他地區均照常上班上課。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261023/3259511.htm",
+          "published": "2026-10-23T00:57:00+08:00"
+        }
+      ],
+      "status": {
+        "metro": [],
+        "power": [
+          {
+            "label": "台電停電戶數（參考值）",
+            "text": "台電停復電查詢系統顯示（資料時點 10月23日 22:00），臺東縣目前停電 0 戶、曾經停電累計 1,737 戶（參考值：來自台電內部查詢端點，欄位意義為推得，非台電公告統計）。",
+            "level": null,
+            "source_name": "台電停復電查詢系統",
+            "source_url": "https://service.taipower.com.tw/psvs1/",
+            "updated_at": "2026-10-23T22:00:00+08:00"
+          }
+        ],
+        "landslide": [
+          {
+            "label": "土石流警戒",
+            "text": "目前無土石流警戒",
+            "level": "info",
+            "source_name": "農業部水土保持署",
+            "source_url": "https://246.ardswc.gov.tw/",
+            "updated_at": "2026-10-23T21:21:00+08:00"
+          }
+        ]
+      },
+      "rescue": []
+    },
+    {
+      "id": "penghu",
+      "name": "澎湖縣",
+      "official": {
+        "eoc_tier": 1,
+        "eoc_opened_at": "2026-10-22T16:00:00+08:00",
+        "eoc_opened_at_note": "專案首次開設時間，不一定是目前等級的起算時間",
+        "work_school_status": "今天停止上班、停止上課。 明天未達停止上班及上課標準。"
+      },
+      "mayor": {
+        "name": "陳光復",
+        "title": "縣長"
+      },
+      "prep": [
+        {
+          "id": "p-f0da55ec91",
+          "prep_type": "other",
+          "detail": "澎湖縣政府召開災防整備會議，邀集備份指揮部指揮官與會，討論災害情境、應變處置及跨單位支援機制。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259473.htm",
+          "published": "2026-10-22T21:32:00+08:00"
+        },
+        {
+          "id": "p-28ab7b508c",
+          "prep_type": "other",
+          "detail": "澎湖縣政府建設處將對廣告物及各建築工地加強安全巡查工作。",
+          "quantity": null,
+          "time": null,
+          "outlet": "澎湖縣政府",
+          "url": "https://www.penghu.gov.tw/ch/home.jsp?id=10088&act=view&dataserno=11510210005",
+          "published": "2026-10-21"
+        }
+      ],
+      "person": [],
+      "status": {
+        "metro": [],
+        "power": [],
+        "landslide": [
+          {
+            "label": "土石流警戒",
+            "text": "目前無土石流警戒",
+            "level": "info",
+            "source_name": "農業部水土保持署",
+            "source_url": "https://246.ardswc.gov.tw/",
+            "updated_at": "2026-10-23T21:21:00+08:00"
+          }
+        ]
+      },
+      "rescue": []
+    },
+    {
+      "id": "kinmen",
+      "name": "金門縣",
+      "official": {
+        "eoc_tier": 3,
+        "eoc_opened_at": "2026-10-22T21:00:00+08:00",
+        "eoc_opened_at_note": "專案首次開設時間，不一定是目前等級的起算時間",
+        "work_school_status": "今天照常上班、照常上課。 明天未達停止上班及上課標準。"
+      },
+      "mayor": {
+        "name": "陳福海",
+        "title": "縣長"
+      },
+      "prep": [
+        {
+          "id": "p-9f37d2f382",
+          "prep_type": "other",
+          "detail": "金門縣消防局啟動防颱整備，要求各消防分隊加強防救災裝備器材整備。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259175.htm",
+          "published": "2026-10-22T14:15:00+08:00"
+        },
+        {
+          "id": "p-47cec5192a",
+          "prep_type": "other",
+          "detail": "金門縣港務處公告，金門水頭往返廈門五通航線22日雙向全日停航。",
+          "quantity": null,
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261022/3259054.htm",
+          "published": "2026-10-22T11:48:00+08:00"
+        }
+      ],
+      "person": [],
+      "status": {
+        "metro": [],
+        "power": [],
+        "landslide": [
+          {
+            "label": "土石流警戒",
+            "text": "目前無土石流警戒",
+            "level": "info",
+            "source_name": "農業部水土保持署",
+            "source_url": "https://246.ardswc.gov.tw/",
+            "updated_at": "2026-10-23T21:21:00+08:00"
+          }
+        ]
+      },
+      "rescue": []
+    },
+    {
+      "id": "lienchiang",
+      "name": "連江縣",
+      "official": {
+        "eoc_tier": 1,
+        "eoc_opened_at": "2026-10-22T14:27:00+08:00",
+        "eoc_opened_at_note": "專案首次開設時間，不一定是目前等級的起算時間",
+        "work_school_status": "今天停止上班、停止上課。 明天已達停止上班及上課標準。"
+      },
+      "mayor": {
+        "name": "王忠銘",
+        "title": "縣長"
+      },
+      "prep": [],
+      "person": [],
+      "status": {
+        "metro": [],
+        "power": [],
+        "landslide": [
+          {
+            "label": "土石流警戒",
+            "text": "目前無土石流警戒",
+            "level": "info",
+            "source_name": "農業部水土保持署",
+            "source_url": "https://246.ardswc.gov.tw/",
+            "updated_at": "2026-10-23T21:21:00+08:00"
+          }
+        ]
+      },
+      "rescue": []
+    }
+  ]
+}
