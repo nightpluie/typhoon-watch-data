@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T17:10:37+08:00",
+  "updated_at": "2026-10-24T18:16:25+08:00",
   "typhoon": {
     "name": "薔琵"
   },
@@ -19,6 +19,16 @@
         "title": "市長"
       },
       "prep": [
+        {
+          "id": "p-6a5798b55d",
+          "prep_type": "other",
+          "detail": "截至23日下午4點，臺北市公園處動員311位人員、67輛車、134部機具投入救災，155件路樹倒塌通報已完成102件處理。",
+          "quantity": "311人、67輛車、134部機具",
+          "time": null,
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261024/3260291.htm",
+          "published": "2026-10-24T17:15:00+08:00"
+        },
         {
           "id": "p-3da624818f",
           "prep_type": "other",
@@ -56,6 +66,10 @@
             {
               "outlet": "ETtoday新聞雲",
               "url": "https://www.ettoday.net/news/20261024/3260247.htm"
+            },
+            {
+              "outlet": "ETtoday新聞雲",
+              "url": "https://www.ettoday.net/news/20261024/3260291.htm"
             }
           ]
         },
@@ -77,6 +91,16 @@
           "time": null,
           "outlet": "臺北市政府",
           "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=07211C1B52E9F4FE",
+          "published": "2026-10-24"
+        },
+        {
+          "id": "p-dfb7abcd8f",
+          "prep_type": "other",
+          "detail": "臺北市公車、小型復康巴士25日恢復正常營運，藍色水路待碼頭設施確認安全後開始營運。",
+          "quantity": null,
+          "time": null,
+          "outlet": "臺北市政府",
+          "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=66685C8B7D0D3C29",
           "published": "2026-10-24"
         },
         {
@@ -486,6 +510,16 @@
       ],
       "person": [
         {
+          "id": "m-8a3f209b32",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "臺北市長蔣萬安23日晚間睡在應變中心。",
+          "outlet": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261024/3260298.htm",
+          "published": "2026-10-24T18:02:00+08:00"
+        },
+        {
           "id": "m-1e37407806",
           "person": "蔣萬安",
           "role": "mayor",
@@ -493,7 +527,17 @@
           "action": "視察災害復原情況，到中山區建國北路二段的路樹斷裂倒塌現場視察，並協助撿樹枝。",
           "outlet": "ETtoday新聞雲",
           "url": "https://www.ettoday.net/news/20261024/3260247.htm",
-          "published": "2026-10-24T16:00:00+08:00"
+          "published": "2026-10-24T16:00:00+08:00",
+          "also": [
+            {
+              "outlet": "ETtoday新聞雲",
+              "url": "https://www.ettoday.net/news/20261024/3260291.htm"
+            },
+            {
+              "outlet": "ETtoday新聞雲",
+              "url": "https://www.ettoday.net/news/20261024/3260300.htm"
+            }
+          ]
         },
         {
           "id": "m-b9a0b58d87",
@@ -689,6 +733,16 @@
           "action": "臺北市長蔣萬安與清潔隊員握手致意，並致贈慰勞飲品與加菜金，叮囑執勤同仁穿戴完整裝備、注意自身安全。",
           "outlet": "臺北市政府",
           "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=AD0DA26949D98B3B",
+          "published": "2026-10-24"
+        },
+        {
+          "id": "m-bacdb03e22",
+          "person": "蔣萬安",
+          "role": "mayor",
+          "time": null,
+          "action": "臺北市長蔣萬安預定於25日上午11時與胡椒及臺北客家鄉親代表挑擔進入主會場，進行主祭大典。",
+          "outlet": "臺北市政府",
+          "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=F8B2A291D8D13053",
           "published": "2026-10-24"
         },
         {
@@ -1299,24 +1353,16 @@
             "source_name": "臺北大眾捷運股份有限公司",
             "source_url": "https://www.metro.taipei/News_Content.aspx?n=30CCEFD2A45592BF&sms=72544237BBE4C5F6&s=56B859603DC66E56",
             "updated_at": "2026-10-23T20:34:00+08:00"
-          },
-          {
-            "label": "臺北捷運",
-            "text": "臺北捷運公告（10月23日 17:23 更新）：23日18時風速達停駛標準，文湖線及高運量高架平面段停駛，其餘路線正常。發布機關：臺北大眾捷運股份有限公司 聯絡人：周萬祥 聯絡資訊：02-21812345 受薔琵颱風來襲影響，10月23日臺北捷運文湖線及高運量平面、高架路段（圓山站至淡水站、新北投站、小碧潭站），風速已達列車停駛標準，將於18時起暫停營運，恢復營運時間視天候與實際狀況，另行通知。",
-            "level": "alert",
-            "source_name": "臺北大眾捷運股份有限公司",
-            "source_url": "https://www.metro.taipei/News_Content.aspx?n=30CCEFD2A45592BF&sms=72544237BBE4C5F6&s=649A1A69E7BC170D",
-            "updated_at": "2026-10-23T17:23:00+08:00"
           }
         ],
         "power": [
           {
             "label": "台電停電戶數（參考值）",
-            "text": "台電停復電查詢系統顯示（資料時點 10月24日 17:00），臺北市目前停電 528 戶、曾經停電累計 9,638 戶。",
+            "text": "台電停復電查詢系統顯示（資料時點 10月24日 18:00），臺北市目前停電 528 戶、曾經停電累計 9,638 戶。",
             "level": null,
             "source_name": "台電停復電查詢系統",
             "source_url": "https://service.taipower.com.tw/psvs1/",
-            "updated_at": "2026-10-24T17:00:00+08:00"
+            "updated_at": "2026-10-24T18:00:00+08:00"
           }
         ],
         "landslide": [
@@ -1326,7 +1372,7 @@
             "level": "info",
             "source_name": "農業部水土保持署",
             "source_url": "https://246.ardswc.gov.tw/",
-            "updated_at": "2026-10-24T15:09:00+08:00"
+            "updated_at": "2026-10-24T18:10:48+08:00"
           }
         ]
       },
@@ -1793,21 +1839,21 @@
         "metro": [
           {
             "label": "新北捷運",
-            "text": "新北捷運官網營運狀況（查詢時間 10月24日 17:05）：淡海輕軌、安坑輕軌、環狀線、三鶯線全線班距延長",
+            "text": "新北捷運官網營運狀況（查詢時間 10月24日 18:10）：淡海輕軌、安坑輕軌、環狀線、三鶯線全線班距延長",
             "level": "warn",
             "source_name": "新北大眾捷運股份有限公司",
             "source_url": "https://www.ntmetro.com.tw/",
-            "updated_at": "2026-10-24T17:05:48+08:00"
+            "updated_at": "2026-10-24T18:10:48+08:00"
           }
         ],
         "power": [
           {
             "label": "台電停電戶數（參考值）",
-            "text": "台電停復電查詢系統顯示（資料時點 10月24日 17:00），新北市目前停電 10,879 戶、曾經停電累計 46,766 戶。",
+            "text": "台電停復電查詢系統顯示（資料時點 10月24日 18:00），新北市目前停電 8,704 戶、曾經停電累計 46,766 戶。",
             "level": null,
             "source_name": "台電停復電查詢系統",
             "source_url": "https://service.taipower.com.tw/psvs1/",
-            "updated_at": "2026-10-24T17:00:00+08:00"
+            "updated_at": "2026-10-24T18:00:00+08:00"
           }
         ],
         "landslide": [
@@ -1817,7 +1863,7 @@
             "level": "info",
             "source_name": "農業部水土保持署",
             "source_url": "https://246.ardswc.gov.tw/",
-            "updated_at": "2026-10-24T15:09:00+08:00"
+            "updated_at": "2026-10-24T18:10:48+08:00"
           }
         ]
       },
@@ -1827,7 +1873,7 @@
       "id": "taoyuan",
       "name": "桃園市",
       "official": {
-        "eoc_tier": 2,
+        "eoc_tier": 3,
         "eoc_opened_at": "2026-10-22T09:00:00+08:00",
         "eoc_opened_at_note": "專案首次開設時間，不一定是目前等級的起算時間",
         "work_school_status": "今天已達停止上班及上課標準。"
@@ -1837,6 +1883,36 @@
         "title": "市長"
       },
       "prep": [
+        {
+          "id": "p-fcb46a295a",
+          "prep_type": "other",
+          "detail": "桃園市市區公車24日夜晚逐漸恢復主要幹線及乘車需求較高路線班次，運量較低路線及各區免費公車等維持停駛。",
+          "quantity": null,
+          "time": null,
+          "outlet": "桃園市政府",
+          "url": "https://traffic.tycg.gov.tw/businessD/post/upt.aspx?p0=106240",
+          "published": "2026-10-24"
+        },
+        {
+          "id": "p-47a1760e51",
+          "prep_type": "other",
+          "detail": "桃園市路邊停車於25日上午7時起恢復收費管理，停放於紅、黃線等禁停處所的車輛須於當日上午7時前駛離。",
+          "quantity": null,
+          "time": null,
+          "outlet": "桃園市政府",
+          "url": "https://traffic.tycg.gov.tw/businessD/post/upt.aspx?p0=106240",
+          "published": "2026-10-24"
+        },
+        {
+          "id": "p-7c9c8a22bb",
+          "prep_type": "other",
+          "detail": "桃園YouBike於25日上午6時恢復營運，復興區六站於25日12時恢復營運。",
+          "quantity": null,
+          "time": null,
+          "outlet": "桃園市政府",
+          "url": "https://traffic.tycg.gov.tw/businessD/post/upt.aspx?p0=106240",
+          "published": "2026-10-24"
+        },
         {
           "id": "p-76b39b8afa",
           "prep_type": "evacuation",
@@ -2004,7 +2080,7 @@
             "level": "warn",
             "source_name": "桃園大眾捷運股份有限公司",
             "source_url": "https://www.tymetro.com.tw/tymetro-new/tw/_pages/news/show-2439-1.html",
-            "updated_at": "2026-10-24T17:05:48+08:00"
+            "updated_at": "2026-10-24T18:10:48+08:00"
           },
           {
             "label": "桃園捷運",
@@ -2012,27 +2088,27 @@
             "level": "warn",
             "source_name": "桃園大眾捷運股份有限公司",
             "source_url": "https://www.tymetro.com.tw/tymetro-new/tw/_pages/news/show-2438-1.html",
-            "updated_at": "2026-10-24T17:05:48+08:00"
+            "updated_at": "2026-10-24T18:10:48+08:00"
           }
         ],
         "power": [
           {
             "label": "台電停電戶數（參考值）",
-            "text": "台電停復電查詢系統顯示（資料時點 10月24日 17:00），桃園市目前停電 1,518 戶、曾經停電累計 54,195 戶。",
+            "text": "台電停復電查詢系統顯示（資料時點 10月24日 18:00），桃園市目前停電 122 戶、曾經停電累計 54,216 戶。",
             "level": null,
             "source_name": "台電停復電查詢系統",
             "source_url": "https://service.taipower.com.tw/psvs1/",
-            "updated_at": "2026-10-24T17:00:00+08:00"
+            "updated_at": "2026-10-24T18:00:00+08:00"
           }
         ],
         "landslide": [
           {
             "label": "土石流警戒",
-            "text": "黃色警戒 17 處（復興區 17）",
-            "level": "warn",
+            "text": "目前無土石流警戒",
+            "level": "info",
             "source_name": "農業部水土保持署",
             "source_url": "https://246.ardswc.gov.tw/",
-            "updated_at": "2026-10-24T15:09:00+08:00"
+            "updated_at": "2026-10-24T18:10:48+08:00"
           }
         ]
       },
@@ -2070,6 +2146,26 @@
           "time": null,
           "outlet": "臺中市政府",
           "url": "https://www.taichung.gov.tw/3399416/post",
+          "published": "2026-10-24"
+        },
+        {
+          "id": "p-b26cb10644",
+          "prep_type": "other",
+          "detail": "截至24日下午3時，臺中市環保局各區清潔隊共動員587人、出動機具125車次，完成626件清理作業。",
+          "quantity": "587人、125車次、626件",
+          "time": null,
+          "outlet": "臺中市政府",
+          "url": "https://www.taichung.gov.tw/3399432/post",
+          "published": "2026-10-24"
+        },
+        {
+          "id": "p-b4e957f838",
+          "prep_type": "other",
+          "detail": "截至24日下午3時，臺中市水利局颱風期間共動員155人次、救災機具48部次，接獲9件災情通報均已完成處理。",
+          "quantity": "155人次、48部次",
+          "time": null,
+          "outlet": "臺中市政府",
+          "url": "https://www.taichung.gov.tw/3399432/post",
           "published": "2026-10-24"
         },
         {
@@ -2419,21 +2515,21 @@
         "metro": [
           {
             "label": "臺中捷運",
-            "text": "業者營運公告頁目前未見停駛或異常公告（查詢時間 10月24日 17:05）。官網首頁寫「捷運營運狀態：全線正常營運（目前班距10分鐘）」",
+            "text": "業者營運公告頁目前未見停駛或異常公告（查詢時間 10月24日 18:10）。官網首頁寫「捷運營運狀態：全線正常營運（目前班距10分鐘）」",
             "level": "info",
             "source_name": "臺中捷運股份有限公司",
             "source_url": "https://www.tmrt.com.tw/",
-            "updated_at": "2026-10-24T17:05:48+08:00"
+            "updated_at": "2026-10-24T18:10:48+08:00"
           }
         ],
         "power": [
           {
             "label": "台電停電戶數（參考值）",
-            "text": "台電停復電查詢系統顯示（資料時點 10月24日 17:00），臺中市目前停電 1,070 戶、曾經停電累計 28,794 戶。",
+            "text": "台電停復電查詢系統顯示（資料時點 10月24日 18:00），臺中市目前停電 406 戶、曾經停電累計 28,794 戶。",
             "level": null,
             "source_name": "台電停復電查詢系統",
             "source_url": "https://service.taipower.com.tw/psvs1/",
-            "updated_at": "2026-10-24T17:00:00+08:00"
+            "updated_at": "2026-10-24T18:00:00+08:00"
           }
         ],
         "landslide": [
@@ -2443,7 +2539,7 @@
             "level": "info",
             "source_name": "農業部水土保持署",
             "source_url": "https://246.ardswc.gov.tw/",
-            "updated_at": "2026-10-24T15:09:00+08:00"
+            "updated_at": "2026-10-24T18:10:48+08:00"
           }
         ]
       },
@@ -2623,6 +2719,36 @@
         }
       ],
       "person": [
+        {
+          "id": "m-6f664a3c6e",
+          "person": "黃偉哲",
+          "role": "mayor",
+          "time": null,
+          "action": "在南紡購物中心舉行的「2026台南購物節」首場月月抽活動中，親自抽出首波幸運得主。",
+          "outlet": "臺南市政府",
+          "url": "https://www.tainan.gov.tw//News_Content.aspx?n=13370&sms=9748&s=8843432",
+          "published": "2026-10-24T17:35:00+08:00"
+        },
+        {
+          "id": "m-63b4f900f9",
+          "person": "黃偉哲",
+          "role": "mayor",
+          "time": null,
+          "action": "宣布將連續3個月加碼抽出共3,000杯「茶的魔手」飲品。",
+          "outlet": "臺南市政府",
+          "url": "https://www.tainan.gov.tw//News_Content.aspx?n=13370&sms=9748&s=8843432",
+          "published": "2026-10-24T17:35:00+08:00"
+        },
+        {
+          "id": "m-3a9d7eefe8",
+          "person": "黃偉哲",
+          "role": "mayor",
+          "time": null,
+          "action": "出席2026臺南關子嶺溫泉美食節開幕，表示秋高氣爽正是泡湯旅遊的最佳季節，並邀請民眾來關子嶺享受泥漿溫泉、品嚐桶仔雞。",
+          "outlet": "臺南市政府",
+          "url": "https://www.tainan.gov.tw//News_Content.aspx?n=13370&sms=9748&s=8843433",
+          "published": "2026-10-24T17:00:00+08:00"
+        },
         {
           "id": "m-e570635b8b",
           "person": "黃偉哲",
@@ -2877,11 +3003,11 @@
         "power": [
           {
             "label": "台電停電戶數（參考值）",
-            "text": "台電停復電查詢系統顯示（資料時點 10月24日 17:00），臺南市目前停電 142 戶、曾經停電累計 30,947 戶。",
+            "text": "台電停復電查詢系統顯示（資料時點 10月24日 18:00），臺南市目前停電 0 戶、曾經停電累計 30,947 戶。",
             "level": null,
             "source_name": "台電停復電查詢系統",
             "source_url": "https://service.taipower.com.tw/psvs1/",
-            "updated_at": "2026-10-24T17:00:00+08:00"
+            "updated_at": "2026-10-24T18:00:00+08:00"
           }
         ],
         "landslide": [
@@ -2891,7 +3017,7 @@
             "level": "info",
             "source_name": "農業部水土保持署",
             "source_url": "https://246.ardswc.gov.tw/",
-            "updated_at": "2026-10-24T15:09:00+08:00"
+            "updated_at": "2026-10-24T18:10:48+08:00"
           }
         ]
       },
@@ -3322,21 +3448,21 @@
         "metro": [
           {
             "label": "高雄捷運／輕軌",
-            "text": "業者營運公告頁目前未見停駛或異常公告（查詢時間 10月24日 17:05）。官網首頁狀態列：捷運全線正常營運；輕軌全線正常營運",
+            "text": "業者營運公告頁目前未見停駛或異常公告（查詢時間 10月24日 18:10）。官網首頁狀態列：捷運全線正常營運；輕軌全線正常營運",
             "level": "info",
             "source_name": "高雄捷運公司",
             "source_url": "https://www.krtc.com.tw/",
-            "updated_at": "2026-10-24T17:05:48+08:00"
+            "updated_at": "2026-10-24T18:10:48+08:00"
           }
         ],
         "power": [
           {
             "label": "台電停電戶數（參考值）",
-            "text": "台電停復電查詢系統顯示（資料時點 10月24日 17:00），高雄市目前停電 0 戶、曾經停電累計 12,071 戶。",
+            "text": "台電停復電查詢系統顯示（資料時點 10月24日 18:00），高雄市目前停電 0 戶、曾經停電累計 12,071 戶。",
             "level": null,
             "source_name": "台電停復電查詢系統",
             "source_url": "https://service.taipower.com.tw/psvs1/",
-            "updated_at": "2026-10-24T17:00:00+08:00"
+            "updated_at": "2026-10-24T18:00:00+08:00"
           }
         ],
         "landslide": [
@@ -3346,7 +3472,7 @@
             "level": "info",
             "source_name": "農業部水土保持署",
             "source_url": "https://246.ardswc.gov.tw/",
-            "updated_at": "2026-10-24T15:09:00+08:00"
+            "updated_at": "2026-10-24T18:10:48+08:00"
           }
         ]
       },
@@ -3514,11 +3640,11 @@
         "power": [
           {
             "label": "台電停電戶數（參考值）",
-            "text": "台電停復電查詢系統顯示（資料時點 10月24日 17:00），基隆市目前停電 5 戶、曾經停電累計 20,472 戶。",
+            "text": "台電停復電查詢系統顯示（資料時點 10月24日 18:00），基隆市目前停電 5 戶、曾經停電累計 20,472 戶。",
             "level": null,
             "source_name": "台電停復電查詢系統",
             "source_url": "https://service.taipower.com.tw/psvs1/",
-            "updated_at": "2026-10-24T17:00:00+08:00"
+            "updated_at": "2026-10-24T18:00:00+08:00"
           }
         ],
         "landslide": [
@@ -3528,7 +3654,7 @@
             "level": "info",
             "source_name": "農業部水土保持署",
             "source_url": "https://246.ardswc.gov.tw/",
-            "updated_at": "2026-10-24T15:09:00+08:00"
+            "updated_at": "2026-10-24T18:10:48+08:00"
           }
         ]
       },
@@ -3696,11 +3822,11 @@
         "power": [
           {
             "label": "台電停電戶數（參考值）",
-            "text": "台電停復電查詢系統顯示（資料時點 10月24日 17:00），新竹市目前停電 0 戶、曾經停電累計 3,712 戶。",
+            "text": "台電停復電查詢系統顯示（資料時點 10月24日 18:00），新竹市目前停電 0 戶、曾經停電累計 3,710 戶。",
             "level": null,
             "source_name": "台電停復電查詢系統",
             "source_url": "https://service.taipower.com.tw/psvs1/",
-            "updated_at": "2026-10-24T17:00:00+08:00"
+            "updated_at": "2026-10-24T18:00:00+08:00"
           }
         ],
         "landslide": [
@@ -3710,7 +3836,7 @@
             "level": "info",
             "source_name": "農業部水土保持署",
             "source_url": "https://246.ardswc.gov.tw/",
-            "updated_at": "2026-10-24T15:09:00+08:00"
+            "updated_at": "2026-10-24T18:10:48+08:00"
           }
         ]
       },
@@ -3988,21 +4114,21 @@
         "power": [
           {
             "label": "台電停電戶數（參考值）",
-            "text": "台電停復電查詢系統顯示（資料時點 10月24日 17:00），新竹縣目前停電 102 戶、曾經停電累計 7,188 戶。",
+            "text": "台電停復電查詢系統顯示（資料時點 10月24日 18:00），新竹縣目前停電 102 戶、曾經停電累計 7,176 戶。",
             "level": null,
             "source_name": "台電停復電查詢系統",
             "source_url": "https://service.taipower.com.tw/psvs1/",
-            "updated_at": "2026-10-24T17:00:00+08:00"
+            "updated_at": "2026-10-24T18:00:00+08:00"
           }
         ],
         "landslide": [
           {
             "label": "土石流警戒",
-            "text": "黃色警戒 31 處（尖石鄉 26、五峰鄉 5）",
-            "level": "warn",
+            "text": "目前無土石流警戒",
+            "level": "info",
             "source_name": "農業部水土保持署",
             "source_url": "https://246.ardswc.gov.tw/",
-            "updated_at": "2026-10-24T15:09:00+08:00"
+            "updated_at": "2026-10-24T18:10:48+08:00"
           }
         ]
       },
@@ -4336,11 +4462,11 @@
         "power": [
           {
             "label": "台電停電戶數（參考值）",
-            "text": "台電停復電查詢系統顯示（資料時點 10月24日 17:00），苗栗縣目前停電 56 戶、曾經停電累計 8,640 戶。",
+            "text": "台電停復電查詢系統顯示（資料時點 10月24日 18:00），苗栗縣目前停電 56 戶、曾經停電累計 8,640 戶。",
             "level": null,
             "source_name": "台電停復電查詢系統",
             "source_url": "https://service.taipower.com.tw/psvs1/",
-            "updated_at": "2026-10-24T17:00:00+08:00"
+            "updated_at": "2026-10-24T18:00:00+08:00"
           }
         ],
         "landslide": [
@@ -4350,7 +4476,7 @@
             "level": "info",
             "source_name": "農業部水土保持署",
             "source_url": "https://246.ardswc.gov.tw/",
-            "updated_at": "2026-10-24T15:09:00+08:00"
+            "updated_at": "2026-10-24T18:10:48+08:00"
           }
         ]
       },
@@ -4468,11 +4594,11 @@
         "power": [
           {
             "label": "台電停電戶數（參考值）",
-            "text": "台電停復電查詢系統顯示（資料時點 10月24日 17:00），彰化縣目前停電 536 戶、曾經停電累計 20,285 戶。",
+            "text": "台電停復電查詢系統顯示（資料時點 10月24日 18:00），彰化縣目前停電 536 戶、曾經停電累計 20,285 戶。",
             "level": null,
             "source_name": "台電停復電查詢系統",
             "source_url": "https://service.taipower.com.tw/psvs1/",
-            "updated_at": "2026-10-24T17:00:00+08:00"
+            "updated_at": "2026-10-24T18:00:00+08:00"
           }
         ],
         "landslide": [
@@ -4482,7 +4608,7 @@
             "level": "info",
             "source_name": "農業部水土保持署",
             "source_url": "https://246.ardswc.gov.tw/",
-            "updated_at": "2026-10-24T15:09:00+08:00"
+            "updated_at": "2026-10-24T18:10:48+08:00"
           }
         ]
       },
@@ -4590,11 +4716,11 @@
         "power": [
           {
             "label": "台電停電戶數（參考值）",
-            "text": "台電停復電查詢系統顯示（資料時點 10月24日 17:00），南投縣目前停電 70 戶、曾經停電累計 5,200 戶。",
+            "text": "台電停復電查詢系統顯示（資料時點 10月24日 18:00），南投縣目前停電 69 戶、曾經停電累計 5,200 戶。",
             "level": null,
             "source_name": "台電停復電查詢系統",
             "source_url": "https://service.taipower.com.tw/psvs1/",
-            "updated_at": "2026-10-24T17:00:00+08:00"
+            "updated_at": "2026-10-24T18:00:00+08:00"
           }
         ],
         "landslide": [
@@ -4604,7 +4730,7 @@
             "level": "info",
             "source_name": "農業部水土保持署",
             "source_url": "https://246.ardswc.gov.tw/",
-            "updated_at": "2026-10-24T15:09:00+08:00"
+            "updated_at": "2026-10-24T18:10:48+08:00"
           }
         ]
       },
@@ -4742,11 +4868,11 @@
         "power": [
           {
             "label": "台電停電戶數（參考值）",
-            "text": "台電停復電查詢系統顯示（資料時點 10月24日 17:00），雲林縣目前停電 749 戶、曾經停電累計 34,780 戶。",
+            "text": "台電停復電查詢系統顯示（資料時點 10月24日 18:00），雲林縣目前停電 749 戶、曾經停電累計 34,780 戶。",
             "level": null,
             "source_name": "台電停復電查詢系統",
             "source_url": "https://service.taipower.com.tw/psvs1/",
-            "updated_at": "2026-10-24T17:00:00+08:00"
+            "updated_at": "2026-10-24T18:00:00+08:00"
           }
         ],
         "landslide": [
@@ -4756,7 +4882,7 @@
             "level": "info",
             "source_name": "農業部水土保持署",
             "source_url": "https://246.ardswc.gov.tw/",
-            "updated_at": "2026-10-24T15:09:00+08:00"
+            "updated_at": "2026-10-24T18:10:48+08:00"
           }
         ]
       },
@@ -4864,11 +4990,11 @@
         "power": [
           {
             "label": "台電停電戶數（參考值）",
-            "text": "台電停復電查詢系統顯示（資料時點 10月24日 17:00），嘉義市目前停電 0 戶、曾經停電累計 6 戶。",
+            "text": "台電停復電查詢系統顯示（資料時點 10月24日 18:00），嘉義市目前停電 0 戶、曾經停電累計 6 戶。",
             "level": null,
             "source_name": "台電停復電查詢系統",
             "source_url": "https://service.taipower.com.tw/psvs1/",
-            "updated_at": "2026-10-24T17:00:00+08:00"
+            "updated_at": "2026-10-24T18:00:00+08:00"
           }
         ],
         "landslide": [
@@ -4878,7 +5004,7 @@
             "level": "info",
             "source_name": "農業部水土保持署",
             "source_url": "https://246.ardswc.gov.tw/",
-            "updated_at": "2026-10-24T15:09:00+08:00"
+            "updated_at": "2026-10-24T18:10:48+08:00"
           }
         ]
       },
@@ -5056,11 +5182,11 @@
         "power": [
           {
             "label": "台電停電戶數（參考值）",
-            "text": "台電停復電查詢系統顯示（資料時點 10月24日 17:00），嘉義縣目前停電 281 戶、曾經停電累計 18,542 戶。",
+            "text": "台電停復電查詢系統顯示（資料時點 10月24日 18:00），嘉義縣目前停電 281 戶、曾經停電累計 18,542 戶。",
             "level": null,
             "source_name": "台電停復電查詢系統",
             "source_url": "https://service.taipower.com.tw/psvs1/",
-            "updated_at": "2026-10-24T17:00:00+08:00"
+            "updated_at": "2026-10-24T18:00:00+08:00"
           }
         ],
         "landslide": [
@@ -5070,7 +5196,7 @@
             "level": "info",
             "source_name": "農業部水土保持署",
             "source_url": "https://246.ardswc.gov.tw/",
-            "updated_at": "2026-10-24T15:09:00+08:00"
+            "updated_at": "2026-10-24T18:10:48+08:00"
           }
         ]
       },
@@ -5248,11 +5374,11 @@
         "power": [
           {
             "label": "台電停電戶數（參考值）",
-            "text": "台電停復電查詢系統顯示（資料時點 10月24日 17:00），屏東縣目前停電 71 戶、曾經停電累計 10,764 戶。",
+            "text": "台電停復電查詢系統顯示（資料時點 10月24日 18:00），屏東縣目前停電 71 戶、曾經停電累計 10,764 戶。",
             "level": null,
             "source_name": "台電停復電查詢系統",
             "source_url": "https://service.taipower.com.tw/psvs1/",
-            "updated_at": "2026-10-24T17:00:00+08:00"
+            "updated_at": "2026-10-24T18:00:00+08:00"
           }
         ],
         "landslide": [
@@ -5262,7 +5388,7 @@
             "level": "info",
             "source_name": "農業部水土保持署",
             "source_url": "https://246.ardswc.gov.tw/",
-            "updated_at": "2026-10-24T15:09:00+08:00"
+            "updated_at": "2026-10-24T18:10:48+08:00"
           }
         ]
       },
@@ -5370,11 +5496,11 @@
         "power": [
           {
             "label": "台電停電戶數（參考值）",
-            "text": "台電停復電查詢系統顯示（資料時點 10月24日 17:00），宜蘭縣目前停電 963 戶、曾經停電累計 29,149 戶。",
+            "text": "台電停復電查詢系統顯示（資料時點 10月24日 18:00），宜蘭縣目前停電 820 戶、曾經停電累計 29,996 戶。",
             "level": null,
             "source_name": "台電停復電查詢系統",
             "source_url": "https://service.taipower.com.tw/psvs1/",
-            "updated_at": "2026-10-24T17:00:00+08:00"
+            "updated_at": "2026-10-24T18:00:00+08:00"
           }
         ],
         "landslide": [
@@ -5384,7 +5510,7 @@
             "level": "info",
             "source_name": "農業部水土保持署",
             "source_url": "https://246.ardswc.gov.tw/",
-            "updated_at": "2026-10-24T15:09:00+08:00"
+            "updated_at": "2026-10-24T18:10:48+08:00"
           }
         ]
       },
@@ -5552,11 +5678,11 @@
         "power": [
           {
             "label": "台電停電戶數（參考值）",
-            "text": "台電停復電查詢系統顯示（資料時點 10月24日 17:00），花蓮縣目前停電 30 戶、曾經停電累計 3,810 戶。",
+            "text": "台電停復電查詢系統顯示（資料時點 10月24日 18:00），花蓮縣目前停電 0 戶、曾經停電累計 3,809 戶。",
             "level": null,
             "source_name": "台電停復電查詢系統",
             "source_url": "https://service.taipower.com.tw/psvs1/",
-            "updated_at": "2026-10-24T17:00:00+08:00"
+            "updated_at": "2026-10-24T18:00:00+08:00"
           }
         ],
         "landslide": [
@@ -5566,7 +5692,7 @@
             "level": "info",
             "source_name": "農業部水土保持署",
             "source_url": "https://246.ardswc.gov.tw/",
-            "updated_at": "2026-10-24T15:09:00+08:00"
+            "updated_at": "2026-10-24T18:10:48+08:00"
           }
         ]
       },
@@ -5615,6 +5741,16 @@
           "action": "24日出席臺東縣全民運動館暨青少年福利服務中心開幕並剪綵。",
           "outlet": "臺東縣政府",
           "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150238",
+          "published": "2026-10-24"
+        },
+        {
+          "id": "m-34766911e1",
+          "person": "饒慶鈴",
+          "role": "mayor",
+          "time": null,
+          "action": "在2026南島咖啡節表示，縣府自2022年開始推動「台東咖啡」品牌，今年邁入第五年。",
+          "outlet": "臺東縣政府",
+          "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150244",
           "published": "2026-10-24"
         },
         {
@@ -5729,11 +5865,11 @@
         "power": [
           {
             "label": "台電停電戶數（參考值）",
-            "text": "台電停復電查詢系統顯示（資料時點 10月24日 17:00），臺東縣目前停電 0 戶、曾經停電累計 1,739 戶。",
+            "text": "台電停復電查詢系統顯示（資料時點 10月24日 18:00），臺東縣目前停電 0 戶、曾經停電累計 1,739 戶。",
             "level": null,
             "source_name": "台電停復電查詢系統",
             "source_url": "https://service.taipower.com.tw/psvs1/",
-            "updated_at": "2026-10-24T17:00:00+08:00"
+            "updated_at": "2026-10-24T18:00:00+08:00"
           }
         ],
         "landslide": [
@@ -5743,7 +5879,7 @@
             "level": "info",
             "source_name": "農業部水土保持署",
             "source_url": "https://246.ardswc.gov.tw/",
-            "updated_at": "2026-10-24T15:09:00+08:00"
+            "updated_at": "2026-10-24T18:10:48+08:00"
           }
         ]
       },
@@ -5815,7 +5951,7 @@
             "level": "info",
             "source_name": "農業部水土保持署",
             "source_url": "https://246.ardswc.gov.tw/",
-            "updated_at": "2026-10-24T15:09:00+08:00"
+            "updated_at": "2026-10-24T18:10:48+08:00"
           }
         ]
       },
@@ -5894,7 +6030,7 @@
             "level": "info",
             "source_name": "農業部水土保持署",
             "source_url": "https://246.ardswc.gov.tw/",
-            "updated_at": "2026-10-24T15:09:00+08:00"
+            "updated_at": "2026-10-24T18:10:48+08:00"
           }
         ]
       },
@@ -5925,7 +6061,7 @@
             "level": "info",
             "source_name": "農業部水土保持署",
             "source_url": "https://246.ardswc.gov.tw/",
-            "updated_at": "2026-10-24T15:09:00+08:00"
+            "updated_at": "2026-10-24T18:10:48+08:00"
           }
         ]
       },
